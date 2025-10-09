@@ -11,21 +11,22 @@ services:
     networks:
       - app-network
 
+  # Nginx с SSL
   nginx:
-  image: nginx:alpine
-  container_name: online-school-nginx
-  ports:
-    - "80:80"
-    - "443:443"
-  volumes:
-    - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf 
-    - ./certbot/www:/var/www/certbot
-    - ./certbot/conf:/etc/letsencrypt
-  depends_on:
-    - app
-  networks:
-    - app-network
-  restart: unless-stopped
+    image: nginx:alpine
+    container_name: online-school-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf  # ПРАВИЛЬНЫЙ ПУТЬ
+      - ./certbot/www:/var/www/certbot
+      - ./certbot/conf:/etc/letsencrypt
+    depends_on:
+      - app
+    networks:
+      - app-network
+    restart: unless-stopped
 
   # Certbot для SSL
   certbot:
