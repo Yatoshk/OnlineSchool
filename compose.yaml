@@ -1,16 +1,20 @@
 ﻿version: '3.8'
 
 services:
+  # Основное приложение
   app:
     build:
       context: .
       dockerfile: OnlineSchool/Dockerfile
+    container_name: online-school-app
+    restart: unless-stopped
     networks:
       - app-network
-    restart: unless-stopped
 
+  # Nginx с SSL
   nginx:
     image: nginx:alpine
+    container_name: online-school-nginx
     ports:
       - "80:80"
       - "443:443"
