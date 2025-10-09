@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\arrow.svg",
+      "PackagePath": "staticwebassets\\arrow.svg"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-CL4cUoRN.js",
+      "PackagePath": "staticwebassets\\assets\\index-CL4cUoRN.js"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-DEWPlple.css",
+      "PackagePath": "staticwebassets\\assets\\index-DEWPlple.css"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\background.svg",
+      "PackagePath": "staticwebassets\\background.svg"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.1.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.1.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.10.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.10.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.11.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.11.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.12.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.12.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.13.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.13.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.14.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.14.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.15.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.15.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.16.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.16.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.17.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.17.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.2.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.2.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.3.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.3.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.4.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.4.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.5.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.5.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.6.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.6.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.7.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.7.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.8.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.8.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.9.pdf",
+      "PackagePath": "staticwebassets\\documents\\3.9.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.1.pdf",
+      "PackagePath": "staticwebassets\\documents\\4.1.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.4.pdf",
+      "PackagePath": "staticwebassets\\documents\\4.4.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.5.pdf",
+      "PackagePath": "staticwebassets\\documents\\4.5.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\Cookies.pdf",
+      "PackagePath": "staticwebassets\\documents\\Cookies.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\PedSostav.pdf",
+      "PackagePath": "staticwebassets\\documents\\PedSostav.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\PublicOffer.pdf",
+      "PackagePath": "staticwebassets\\documents\\PublicOffer.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\Struct.pdf",
+      "PackagePath": "staticwebassets\\documents\\Struct.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\UserAccept.pdf",
+      "PackagePath": "staticwebassets\\documents\\UserAccept.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\arifmetica_1.pdf",
+      "PackagePath": "staticwebassets\\documents\\arifmetica_1.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\math_7.pdf",
+      "PackagePath": "staticwebassets\\documents\\math_7.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\phys_7.pdf",
+      "PackagePath": "staticwebassets\\documents\\phys_7.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\rus_1.pdf",
+      "PackagePath": "staticwebassets\\documents\\rus_1.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\feather.svg",
+      "PackagePath": "staticwebassets\\feather.svg"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\logo.svg",
+      "PackagePath": "staticwebassets\\logo.svg"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\menu.svg",
+      "PackagePath": "staticwebassets\\menu.svg"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\slide1.png",
+      "PackagePath": "staticwebassets\\slide1.png"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.OnlineSchool.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.OnlineSchool.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.OnlineSchool.props",
+      "PackagePath": "build\\OnlineSchool.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineSchool.props",
+      "PackagePath": "buildMultiTargeting\\OnlineSchool.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.OnlineSchool.props",
+      "PackagePath": "buildTransitive\\OnlineSchool.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,6172 @@
+{
+  "Version": 1,
+  "Hash": "zF7Xv0dHeHbUB04Tg4odNFGQE9wE43AtbBABoTh7oiA=",
+  "Source": "OnlineSchool",
+  "BasePath": "_content/OnlineSchool",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineSchool\\wwwroot",
+      "Source": "OnlineSchool",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\3hi5g4ln4q-6s6ouus3bo.gz",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "assets/index-CL4cUoRN#[.{fingerprint=6s6ouus3bo}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-CL4cUoRN.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "i9f5a273h9",
+      "Integrity": "emG9ADZRk5OIspg6Us1Io5suIOU9CgX6E5CjeiuOC38=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-CL4cUoRN.js"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\52a8ihe86w-4lm84zw9yf.gz",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "menu#[.{fingerprint=4lm84zw9yf}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\menu.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ryg307viwo",
+      "Integrity": "o2TAl87VgjUN+n69pmfAcVYcUB6yIvpPEpzs3NXktsw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\menu.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\5myeot6yod-g4yp8aasdx.gz",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "logo#[.{fingerprint=g4yp8aasdx}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\logo.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cd7gib57g1",
+      "Integrity": "sAjfoTwnLcD818Rtp3fxNE/xgubuLv+vLralUpAaIhY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\logo.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\bthm2cbkzy-bjsfxq2u1d.gz",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "index#[.{fingerprint=bjsfxq2u1d}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ii8pu7dxz5",
+      "Integrity": "WmFet4NxDDsT1pV+jUJcfx7pKaQfs/CbNTSZrPT817A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\ery8knq1f2-oi3czei5l5.gz",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "feather#[.{fingerprint=oi3czei5l5}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\feather.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3rt02ufq9r",
+      "Integrity": "n4BMer1jXGZ3IqXd2IAG/FmLoC5660N0vZNs2LaQZYI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\feather.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\htv923eehf-17i5lmal1a.gz",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "arrow#[.{fingerprint=17i5lmal1a}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\arrow.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "px19kt2cif",
+      "Integrity": "80WN/DKRC1Czq5fgSf3mX4N2sljWWVbi0PvS3CDskIc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\arrow.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\oy5483ejex-69kjnsiwqx.gz",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "vite#[.{fingerprint=69kjnsiwqx}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\vite.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zg8rzofdes",
+      "Integrity": "XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\vite.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\u6x553pgo7-85da1z2vvt.gz",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "background#[.{fingerprint=85da1z2vvt}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\background.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t4iuuo8430",
+      "Integrity": "TXXaf5B06dceW12VXqMc2rPblw8wW4Hd2fhcjB0ZKTQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\background.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\zz2og9rcnu-115qixuie1.gz",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "assets/index-DEWPlple#[.{fingerprint=115qixuie1}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-DEWPlple.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "84d2legkcc",
+      "Integrity": "6NtK1T9EloNSfEXLYFhSnEbHJgMcoHrLD0+Vps1CjT8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-DEWPlple.css"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\arrow.svg",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "arrow#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "17i5lmal1a",
+      "Integrity": "o+dsob7IJ6CDV+sLzbQteFJfUqMFADF9YYP7+88Ub6c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\arrow.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-CL4cUoRN.js",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "assets/index-CL4cUoRN#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6s6ouus3bo",
+      "Integrity": "qjHD/S9vEa/uQRo1i3FPpnvtrPkVoqJfQOC+ffzpFe0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-CL4cUoRN.js"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-DEWPlple.css",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "assets/index-DEWPlple#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "115qixuie1",
+      "Integrity": "9XHlB79QVVlgTYMelRd3azEjoKnaBaMaC+REXcm8WZk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-DEWPlple.css"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\background.svg",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "background#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "85da1z2vvt",
+      "Integrity": "9LE/DhSr8fmSUWAnRPOs0zmCirjWbgZKUtwhfoKZkTg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.1.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.1#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "puete2m9xi",
+      "Integrity": "cablMYrhS0UUghPpSv5qDTkWmSG/5M3cLBb49wUztGI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.1.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.10.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.10#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6zp9ikvon4",
+      "Integrity": "PgK36h00Numy5QPhsOo7QsO3FEy7TLbRe0ci6wn8q1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.10.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.11.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.11#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m9i4ogla0g",
+      "Integrity": "hqIgNsS74vzyhEC2ZvOE8xeHhDYJVfw0zOaBIw/wKbA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.11.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.12.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.12#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4uawawwxok",
+      "Integrity": "JPfTrMudFur4AECZqEbHBrv0BTKpg6XpomB0sb0MaDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.12.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.13.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.13#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4cldsoh5uz",
+      "Integrity": "RPnH4GBz/TdWkT9ww3FNJaRYCGAA7OIGnj23aSKC1Yc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.13.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.14.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.14#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qgnai69zq",
+      "Integrity": "aCbmWog1CwVTfBw1eVXr4khi0jXpdei8RkMOLpvBIVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.14.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.15.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.15#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d112csaytk",
+      "Integrity": "wQ1HkoyGMKJIEltrn72RV4B4OVXsgk6wzArnpMyuuOY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.15.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.16.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.16#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5k2dm2anwh",
+      "Integrity": "yzPLEwejrtO3YnJgWg36aKnpDKohzPZ79UiVGcfg9sw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.16.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.17.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.17#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27f04hsbke",
+      "Integrity": "7jR6EHNevJccEnDQke0t5Rp+hBgCX8TUmMh5ZsXy5lg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.17.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.2.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.2#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3metvu4b77",
+      "Integrity": "O6aKBtRpkSYfR2VPm0/e2Tdf98DfJ2ktySWxx+Czkgc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.2.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.3.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.3#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9lg646jxyo",
+      "Integrity": "g5pu25T+wcrVozH0fRO4p1M7GMOtv+o/TdPKDRsN5OI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.3.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.4.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.4#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aoiapwhje0",
+      "Integrity": "CoZ5rClMrcdH3gCVUjRt/tIrBSpbhsgZiymjXUMhnCI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.4.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.5.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.5#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "67k5arkuh1",
+      "Integrity": "gkuhgpH+WXIG4WCYw/cIThCh9aeWawS7C9394bYdTdM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.5.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.6.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.6#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5f8706hcth",
+      "Integrity": "YQ7BQs0ZnhFG0onXHj1o3Dt/E0JD+LaXZdf6auT14xw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.6.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.7.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.7#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l3b3tu4r56",
+      "Integrity": "8c/SviXgMBBaKO76YDK3xAYjWJ0QlYsB0fSHR2itjVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.7.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.8.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.8#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5kuvhh20m3",
+      "Integrity": "dWG/8EODh+QIgT7iJXN0Hc6tmeHw5zNp4qaS4Ia+XNU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.8.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.9.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/3.9#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fev2ttdozt",
+      "Integrity": "d6y+z7KZryk0DRRjJrkU+02QBl8odttH7RxfLARi6ts=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\3.9.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.1.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/4.1#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2kkbf8r2ug",
+      "Integrity": "LgTR5KypXbetwfBhLbPcw+KU2Y5JmGJ5j3519dn/3eM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\4.1.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.4.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/4.4#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b4f21cjba3",
+      "Integrity": "C/oLZPsuT3UxNLl5aW/lilOzlrM/OZsYv3nXX3A+1e4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\4.4.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.5.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/4.5#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fgws32mlvi",
+      "Integrity": "T14EDpTMtgJxgDwZ2HhHVQXEw+5PY789q4/SmU2tVPc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\4.5.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\arifmetica_1.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/arifmetica_1#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sxgpyyr4yl",
+      "Integrity": "AAQ3+qSB1s6U7Z39vvdpBZsxJ6xNPKFqXndsVADO/5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\arifmetica_1.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\Cookies.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/Cookies#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2urmggmxi",
+      "Integrity": "CWdViolQ0BB5pS8w927bcJEnaQYyefzanQpX4eMXYnY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\Cookies.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\math_7.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/math_7#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vlzkveeg1l",
+      "Integrity": "Q0ga4s3YTkhECpy0x7YDxTJVOBR+v08Zpg6hng7AjUs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\math_7.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\PedSostav.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/PedSostav#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8kcfhwwfs",
+      "Integrity": "hLto5l4qEcjI/FL7pUlIvD0Ms7Ro5GxPVqtEMhg+JVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\PedSostav.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\phys_7.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/phys_7#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8r6hs50iq2",
+      "Integrity": "dIxBqYeW0NNW3yI9GfncK6IuFRW/6c+2Tobv6fRAO6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\phys_7.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\PublicOffer.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/PublicOffer#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46nu3h2kjh",
+      "Integrity": "NEjGuXm3T6XTbCyMf9vOxJFPWQipd/bicsopg+umFgI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\PublicOffer.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\rus_1.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/rus_1#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7yg6kbnz4i",
+      "Integrity": "T2uTUgk/GeZ1y/t+dsy++vHct7legvYyI+U4dWEU5ik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\rus_1.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\Struct.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/Struct#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "954e2vshe8",
+      "Integrity": "g9XyPvtUoG+1DsUx49n5nJV0mOePc07H4NoeOAlhsZ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\Struct.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\UserAccept.pdf",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "documents/UserAccept#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "50gand6ybr",
+      "Integrity": "hRrVs+3WDQQhtju3iRRZREMruCUZuN8rHd7r9a5O/DQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\documents\\UserAccept.pdf"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\feather.svg",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "feather#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oi3czei5l5",
+      "Integrity": "0Pe9dDSdsyshoDQzs2F6BWam59I0t00WHtF27fZuSj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\feather.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\index.html",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bjsfxq2u1d",
+      "Integrity": "N0ecY5tJXUpmnReXGrbpciVHlhyTueK60WkBzW1CmHk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\logo.svg",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "logo#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g4yp8aasdx",
+      "Integrity": "AHd/6JaOE+e91dWuMbuNtgSYVhNQeC7sWckf58/7N1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\menu.svg",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "menu#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4lm84zw9yf",
+      "Integrity": "WFRB6LJRGAhXpMEd1Xs4F6s+/49Eck2cHRZe9LMQHAs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\menu.svg"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\slide1.png",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "slide1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "93p0ovxppa",
+      "Integrity": "BcPnEzlRmWQjIkdit8qV1VDSYyt6LPoOLXGWlJMPvM4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\slide1.png"
+    },
+    {
+      "Identity": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\vite.svg",
+      "SourceId": "OnlineSchool",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\",
+      "BasePath": "_content/OnlineSchool",
+      "RelativePath": "vite#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vite.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "arrow.17i5lmal1a.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\htv923eehf-17i5lmal1a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005681818182"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"80WN/DKRC1Czq5fgSf3mX4N2sljWWVbi0PvS3CDskIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:42:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o+dsob7IJ6CDV+sLzbQteFJfUqMFADF9YYP7+88Ub6c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "17i5lmal1a"
+        },
+        {
+          "Name": "label",
+          "Value": "arrow.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o+dsob7IJ6CDV+sLzbQteFJfUqMFADF9YYP7+88Ub6c="
+        }
+      ]
+    },
+    {
+      "Route": "arrow.17i5lmal1a.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\arrow.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o+dsob7IJ6CDV+sLzbQteFJfUqMFADF9YYP7+88Ub6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:42:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "17i5lmal1a"
+        },
+        {
+          "Name": "label",
+          "Value": "arrow.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o+dsob7IJ6CDV+sLzbQteFJfUqMFADF9YYP7+88Ub6c="
+        }
+      ]
+    },
+    {
+      "Route": "arrow.17i5lmal1a.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\htv923eehf-17i5lmal1a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"80WN/DKRC1Czq5fgSf3mX4N2sljWWVbi0PvS3CDskIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:42:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "17i5lmal1a"
+        },
+        {
+          "Name": "label",
+          "Value": "arrow.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-80WN/DKRC1Czq5fgSf3mX4N2sljWWVbi0PvS3CDskIc="
+        }
+      ]
+    },
+    {
+      "Route": "arrow.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\htv923eehf-17i5lmal1a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005681818182"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"80WN/DKRC1Czq5fgSf3mX4N2sljWWVbi0PvS3CDskIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:42:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o+dsob7IJ6CDV+sLzbQteFJfUqMFADF9YYP7+88Ub6c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o+dsob7IJ6CDV+sLzbQteFJfUqMFADF9YYP7+88Ub6c="
+        }
+      ]
+    },
+    {
+      "Route": "arrow.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\arrow.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o+dsob7IJ6CDV+sLzbQteFJfUqMFADF9YYP7+88Ub6c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:42:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o+dsob7IJ6CDV+sLzbQteFJfUqMFADF9YYP7+88Ub6c="
+        }
+      ]
+    },
+    {
+      "Route": "arrow.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\htv923eehf-17i5lmal1a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"80WN/DKRC1Czq5fgSf3mX4N2sljWWVbi0PvS3CDskIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:42:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-80WN/DKRC1Czq5fgSf3mX4N2sljWWVbi0PvS3CDskIc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CL4cUoRN.6s6ouus3bo.js",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\3hi5g4ln4q-6s6ouus3bo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000023624465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42328"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"emG9ADZRk5OIspg6Us1Io5suIOU9CgX6E5CjeiuOC38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qjHD/S9vEa/uQRo1i3FPpnvtrPkVoqJfQOC+ffzpFe0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6s6ouus3bo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CL4cUoRN.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qjHD/S9vEa/uQRo1i3FPpnvtrPkVoqJfQOC+ffzpFe0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CL4cUoRN.6s6ouus3bo.js",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-CL4cUoRN.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qjHD/S9vEa/uQRo1i3FPpnvtrPkVoqJfQOC+ffzpFe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6s6ouus3bo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CL4cUoRN.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qjHD/S9vEa/uQRo1i3FPpnvtrPkVoqJfQOC+ffzpFe0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CL4cUoRN.6s6ouus3bo.js.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\3hi5g4ln4q-6s6ouus3bo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"emG9ADZRk5OIspg6Us1Io5suIOU9CgX6E5CjeiuOC38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6s6ouus3bo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CL4cUoRN.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-emG9ADZRk5OIspg6Us1Io5suIOU9CgX6E5CjeiuOC38="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CL4cUoRN.js",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\3hi5g4ln4q-6s6ouus3bo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000023624465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42328"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"emG9ADZRk5OIspg6Us1Io5suIOU9CgX6E5CjeiuOC38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qjHD/S9vEa/uQRo1i3FPpnvtrPkVoqJfQOC+ffzpFe0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qjHD/S9vEa/uQRo1i3FPpnvtrPkVoqJfQOC+ffzpFe0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CL4cUoRN.js",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-CL4cUoRN.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qjHD/S9vEa/uQRo1i3FPpnvtrPkVoqJfQOC+ffzpFe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qjHD/S9vEa/uQRo1i3FPpnvtrPkVoqJfQOC+ffzpFe0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CL4cUoRN.js.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\3hi5g4ln4q-6s6ouus3bo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42328"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"emG9ADZRk5OIspg6Us1Io5suIOU9CgX6E5CjeiuOC38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-emG9ADZRk5OIspg6Us1Io5suIOU9CgX6E5CjeiuOC38="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DEWPlple.115qixuie1.css",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\zz2og9rcnu-115qixuie1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000613120785"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1630"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6NtK1T9EloNSfEXLYFhSnEbHJgMcoHrLD0+Vps1CjT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9XHlB79QVVlgTYMelRd3azEjoKnaBaMaC+REXcm8WZk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "115qixuie1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DEWPlple.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9XHlB79QVVlgTYMelRd3azEjoKnaBaMaC+REXcm8WZk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DEWPlple.115qixuie1.css",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-DEWPlple.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9XHlB79QVVlgTYMelRd3azEjoKnaBaMaC+REXcm8WZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "115qixuie1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DEWPlple.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9XHlB79QVVlgTYMelRd3azEjoKnaBaMaC+REXcm8WZk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DEWPlple.115qixuie1.css.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\zz2og9rcnu-115qixuie1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6NtK1T9EloNSfEXLYFhSnEbHJgMcoHrLD0+Vps1CjT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "115qixuie1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DEWPlple.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6NtK1T9EloNSfEXLYFhSnEbHJgMcoHrLD0+Vps1CjT8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DEWPlple.css",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\zz2og9rcnu-115qixuie1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000613120785"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1630"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6NtK1T9EloNSfEXLYFhSnEbHJgMcoHrLD0+Vps1CjT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9XHlB79QVVlgTYMelRd3azEjoKnaBaMaC+REXcm8WZk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9XHlB79QVVlgTYMelRd3azEjoKnaBaMaC+REXcm8WZk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DEWPlple.css",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-DEWPlple.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9XHlB79QVVlgTYMelRd3azEjoKnaBaMaC+REXcm8WZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9XHlB79QVVlgTYMelRd3azEjoKnaBaMaC+REXcm8WZk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DEWPlple.css.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\zz2og9rcnu-115qixuie1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6NtK1T9EloNSfEXLYFhSnEbHJgMcoHrLD0+Vps1CjT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6NtK1T9EloNSfEXLYFhSnEbHJgMcoHrLD0+Vps1CjT8="
+        }
+      ]
+    },
+    {
+      "Route": "background.85da1z2vvt.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\u6x553pgo7-85da1z2vvt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004273504274"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TXXaf5B06dceW12VXqMc2rPblw8wW4Hd2fhcjB0ZKTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 16:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9LE/DhSr8fmSUWAnRPOs0zmCirjWbgZKUtwhfoKZkTg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "85da1z2vvt"
+        },
+        {
+          "Name": "label",
+          "Value": "background.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LE/DhSr8fmSUWAnRPOs0zmCirjWbgZKUtwhfoKZkTg="
+        }
+      ]
+    },
+    {
+      "Route": "background.85da1z2vvt.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\background.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LE/DhSr8fmSUWAnRPOs0zmCirjWbgZKUtwhfoKZkTg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 16:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "85da1z2vvt"
+        },
+        {
+          "Name": "label",
+          "Value": "background.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LE/DhSr8fmSUWAnRPOs0zmCirjWbgZKUtwhfoKZkTg="
+        }
+      ]
+    },
+    {
+      "Route": "background.85da1z2vvt.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\u6x553pgo7-85da1z2vvt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TXXaf5B06dceW12VXqMc2rPblw8wW4Hd2fhcjB0ZKTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 16:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "85da1z2vvt"
+        },
+        {
+          "Name": "label",
+          "Value": "background.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TXXaf5B06dceW12VXqMc2rPblw8wW4Hd2fhcjB0ZKTQ="
+        }
+      ]
+    },
+    {
+      "Route": "background.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\u6x553pgo7-85da1z2vvt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004273504274"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TXXaf5B06dceW12VXqMc2rPblw8wW4Hd2fhcjB0ZKTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 16:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9LE/DhSr8fmSUWAnRPOs0zmCirjWbgZKUtwhfoKZkTg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LE/DhSr8fmSUWAnRPOs0zmCirjWbgZKUtwhfoKZkTg="
+        }
+      ]
+    },
+    {
+      "Route": "background.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\background.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9LE/DhSr8fmSUWAnRPOs0zmCirjWbgZKUtwhfoKZkTg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 16:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9LE/DhSr8fmSUWAnRPOs0zmCirjWbgZKUtwhfoKZkTg="
+        }
+      ]
+    },
+    {
+      "Route": "background.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\u6x553pgo7-85da1z2vvt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TXXaf5B06dceW12VXqMc2rPblw8wW4Hd2fhcjB0ZKTQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 16:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TXXaf5B06dceW12VXqMc2rPblw8wW4Hd2fhcjB0ZKTQ="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.1.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cablMYrhS0UUghPpSv5qDTkWmSG/5M3cLBb49wUztGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 15:42:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cablMYrhS0UUghPpSv5qDTkWmSG/5M3cLBb49wUztGI="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.1.puete2m9xi.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "225895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cablMYrhS0UUghPpSv5qDTkWmSG/5M3cLBb49wUztGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 15:42:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "puete2m9xi"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.1.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cablMYrhS0UUghPpSv5qDTkWmSG/5M3cLBb49wUztGI="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.10.6zp9ikvon4.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.10.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PgK36h00Numy5QPhsOo7QsO3FEy7TLbRe0ci6wn8q1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:00:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6zp9ikvon4"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.10.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PgK36h00Numy5QPhsOo7QsO3FEy7TLbRe0ci6wn8q1s="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.10.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.10.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PgK36h00Numy5QPhsOo7QsO3FEy7TLbRe0ci6wn8q1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:00:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PgK36h00Numy5QPhsOo7QsO3FEy7TLbRe0ci6wn8q1s="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.11.m9i4ogla0g.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.11.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hqIgNsS74vzyhEC2ZvOE8xeHhDYJVfw0zOaBIw/wKbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:02:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m9i4ogla0g"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.11.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hqIgNsS74vzyhEC2ZvOE8xeHhDYJVfw0zOaBIw/wKbA="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.11.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.11.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hqIgNsS74vzyhEC2ZvOE8xeHhDYJVfw0zOaBIw/wKbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:02:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hqIgNsS74vzyhEC2ZvOE8xeHhDYJVfw0zOaBIw/wKbA="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.12.4uawawwxok.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.12.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JPfTrMudFur4AECZqEbHBrv0BTKpg6XpomB0sb0MaDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:02:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4uawawwxok"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.12.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JPfTrMudFur4AECZqEbHBrv0BTKpg6XpomB0sb0MaDc="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.12.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.12.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JPfTrMudFur4AECZqEbHBrv0BTKpg6XpomB0sb0MaDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:02:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JPfTrMudFur4AECZqEbHBrv0BTKpg6XpomB0sb0MaDc="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.13.4cldsoh5uz.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.13.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RPnH4GBz/TdWkT9ww3FNJaRYCGAA7OIGnj23aSKC1Yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:03:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4cldsoh5uz"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.13.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RPnH4GBz/TdWkT9ww3FNJaRYCGAA7OIGnj23aSKC1Yc="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.13.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.13.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RPnH4GBz/TdWkT9ww3FNJaRYCGAA7OIGnj23aSKC1Yc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:03:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RPnH4GBz/TdWkT9ww3FNJaRYCGAA7OIGnj23aSKC1Yc="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.14.0qgnai69zq.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.14.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCbmWog1CwVTfBw1eVXr4khi0jXpdei8RkMOLpvBIVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:03:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qgnai69zq"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.14.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCbmWog1CwVTfBw1eVXr4khi0jXpdei8RkMOLpvBIVU="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.14.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.14.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCbmWog1CwVTfBw1eVXr4khi0jXpdei8RkMOLpvBIVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:03:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCbmWog1CwVTfBw1eVXr4khi0jXpdei8RkMOLpvBIVU="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.15.d112csaytk.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.15.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wQ1HkoyGMKJIEltrn72RV4B4OVXsgk6wzArnpMyuuOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d112csaytk"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.15.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wQ1HkoyGMKJIEltrn72RV4B4OVXsgk6wzArnpMyuuOY="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.15.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.15.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wQ1HkoyGMKJIEltrn72RV4B4OVXsgk6wzArnpMyuuOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wQ1HkoyGMKJIEltrn72RV4B4OVXsgk6wzArnpMyuuOY="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.16.5k2dm2anwh.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.16.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yzPLEwejrtO3YnJgWg36aKnpDKohzPZ79UiVGcfg9sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:04:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5k2dm2anwh"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.16.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yzPLEwejrtO3YnJgWg36aKnpDKohzPZ79UiVGcfg9sw="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.16.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.16.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252560"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yzPLEwejrtO3YnJgWg36aKnpDKohzPZ79UiVGcfg9sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:04:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yzPLEwejrtO3YnJgWg36aKnpDKohzPZ79UiVGcfg9sw="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.17.27f04hsbke.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.17.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7jR6EHNevJccEnDQke0t5Rp+hBgCX8TUmMh5ZsXy5lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27f04hsbke"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.17.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7jR6EHNevJccEnDQke0t5Rp+hBgCX8TUmMh5ZsXy5lg="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.17.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.17.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7jR6EHNevJccEnDQke0t5Rp+hBgCX8TUmMh5ZsXy5lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:04:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7jR6EHNevJccEnDQke0t5Rp+hBgCX8TUmMh5ZsXy5lg="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.2.3metvu4b77.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.2.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2295828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O6aKBtRpkSYfR2VPm0/e2Tdf98DfJ2ktySWxx+Czkgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 10:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3metvu4b77"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.2.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O6aKBtRpkSYfR2VPm0/e2Tdf98DfJ2ktySWxx+Czkgc="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.2.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.2.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2295828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O6aKBtRpkSYfR2VPm0/e2Tdf98DfJ2ktySWxx+Czkgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 10:31:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O6aKBtRpkSYfR2VPm0/e2Tdf98DfJ2ktySWxx+Czkgc="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.3.9lg646jxyo.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.3.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g5pu25T+wcrVozH0fRO4p1M7GMOtv+o/TdPKDRsN5OI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:34:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9lg646jxyo"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.3.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g5pu25T+wcrVozH0fRO4p1M7GMOtv+o/TdPKDRsN5OI="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.3.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.3.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g5pu25T+wcrVozH0fRO4p1M7GMOtv+o/TdPKDRsN5OI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:34:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g5pu25T+wcrVozH0fRO4p1M7GMOtv+o/TdPKDRsN5OI="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.4.aoiapwhje0.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.4.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1286732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CoZ5rClMrcdH3gCVUjRt/tIrBSpbhsgZiymjXUMhnCI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:36:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aoiapwhje0"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.4.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CoZ5rClMrcdH3gCVUjRt/tIrBSpbhsgZiymjXUMhnCI="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.4.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.4.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1286732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CoZ5rClMrcdH3gCVUjRt/tIrBSpbhsgZiymjXUMhnCI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:36:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CoZ5rClMrcdH3gCVUjRt/tIrBSpbhsgZiymjXUMhnCI="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.5.67k5arkuh1.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.5.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gkuhgpH+WXIG4WCYw/cIThCh9aeWawS7C9394bYdTdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:56:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67k5arkuh1"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.5.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gkuhgpH+WXIG4WCYw/cIThCh9aeWawS7C9394bYdTdM="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.5.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.5.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gkuhgpH+WXIG4WCYw/cIThCh9aeWawS7C9394bYdTdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:56:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gkuhgpH+WXIG4WCYw/cIThCh9aeWawS7C9394bYdTdM="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.6.5f8706hcth.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.6.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YQ7BQs0ZnhFG0onXHj1o3Dt/E0JD+LaXZdf6auT14xw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:47:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5f8706hcth"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.6.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YQ7BQs0ZnhFG0onXHj1o3Dt/E0JD+LaXZdf6auT14xw="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.6.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.6.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "260684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YQ7BQs0ZnhFG0onXHj1o3Dt/E0JD+LaXZdf6auT14xw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:47:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YQ7BQs0ZnhFG0onXHj1o3Dt/E0JD+LaXZdf6auT14xw="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.7.l3b3tu4r56.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8c/SviXgMBBaKO76YDK3xAYjWJ0QlYsB0fSHR2itjVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:50:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3b3tu4r56"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.7.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8c/SviXgMBBaKO76YDK3xAYjWJ0QlYsB0fSHR2itjVI="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.7.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186197"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8c/SviXgMBBaKO76YDK3xAYjWJ0QlYsB0fSHR2itjVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:50:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8c/SviXgMBBaKO76YDK3xAYjWJ0QlYsB0fSHR2itjVI="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.8.5kuvhh20m3.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.8.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dWG/8EODh+QIgT7iJXN0Hc6tmeHw5zNp4qaS4Ia+XNU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:59:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5kuvhh20m3"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.8.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dWG/8EODh+QIgT7iJXN0Hc6tmeHw5zNp4qaS4Ia+XNU="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.8.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.8.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dWG/8EODh+QIgT7iJXN0Hc6tmeHw5zNp4qaS4Ia+XNU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 13:59:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dWG/8EODh+QIgT7iJXN0Hc6tmeHw5zNp4qaS4Ia+XNU="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.9.fev2ttdozt.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.9.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d6y+z7KZryk0DRRjJrkU+02QBl8odttH7RxfLARi6ts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fev2ttdozt"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/3.9.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d6y+z7KZryk0DRRjJrkU+02QBl8odttH7RxfLARi6ts="
+        }
+      ]
+    },
+    {
+      "Route": "documents/3.9.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\3.9.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d6y+z7KZryk0DRRjJrkU+02QBl8odttH7RxfLARi6ts=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:00:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d6y+z7KZryk0DRRjJrkU+02QBl8odttH7RxfLARi6ts="
+        }
+      ]
+    },
+    {
+      "Route": "documents/4.1.2kkbf8r2ug.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LgTR5KypXbetwfBhLbPcw+KU2Y5JmGJ5j3519dn/3eM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 10:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2kkbf8r2ug"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/4.1.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LgTR5KypXbetwfBhLbPcw+KU2Y5JmGJ5j3519dn/3eM="
+        }
+      ]
+    },
+    {
+      "Route": "documents/4.1.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LgTR5KypXbetwfBhLbPcw+KU2Y5JmGJ5j3519dn/3eM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 10:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LgTR5KypXbetwfBhLbPcw+KU2Y5JmGJ5j3519dn/3eM="
+        }
+      ]
+    },
+    {
+      "Route": "documents/4.4.b4f21cjba3.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.4.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "254774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C/oLZPsuT3UxNLl5aW/lilOzlrM/OZsYv3nXX3A+1e4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b4f21cjba3"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/4.4.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C/oLZPsuT3UxNLl5aW/lilOzlrM/OZsYv3nXX3A+1e4="
+        }
+      ]
+    },
+    {
+      "Route": "documents/4.4.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.4.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "254774"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C/oLZPsuT3UxNLl5aW/lilOzlrM/OZsYv3nXX3A+1e4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:07:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C/oLZPsuT3UxNLl5aW/lilOzlrM/OZsYv3nXX3A+1e4="
+        }
+      ]
+    },
+    {
+      "Route": "documents/4.5.fgws32mlvi.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.5.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1243087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T14EDpTMtgJxgDwZ2HhHVQXEw+5PY789q4/SmU2tVPc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 07:41:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fgws32mlvi"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/4.5.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T14EDpTMtgJxgDwZ2HhHVQXEw+5PY789q4/SmU2tVPc="
+        }
+      ]
+    },
+    {
+      "Route": "documents/4.5.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\4.5.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1243087"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T14EDpTMtgJxgDwZ2HhHVQXEw+5PY789q4/SmU2tVPc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 07:41:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T14EDpTMtgJxgDwZ2HhHVQXEw+5PY789q4/SmU2tVPc="
+        }
+      ]
+    },
+    {
+      "Route": "documents/arifmetica_1.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\arifmetica_1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "398612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAQ3+qSB1s6U7Z39vvdpBZsxJ6xNPKFqXndsVADO/5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 07:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAQ3+qSB1s6U7Z39vvdpBZsxJ6xNPKFqXndsVADO/5Q="
+        }
+      ]
+    },
+    {
+      "Route": "documents/arifmetica_1.sxgpyyr4yl.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\arifmetica_1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "398612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AAQ3+qSB1s6U7Z39vvdpBZsxJ6xNPKFqXndsVADO/5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 07:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sxgpyyr4yl"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/arifmetica_1.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AAQ3+qSB1s6U7Z39vvdpBZsxJ6xNPKFqXndsVADO/5Q="
+        }
+      ]
+    },
+    {
+      "Route": "documents/Cookies.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\Cookies.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "157806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CWdViolQ0BB5pS8w927bcJEnaQYyefzanQpX4eMXYnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 17:47:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CWdViolQ0BB5pS8w927bcJEnaQYyefzanQpX4eMXYnY="
+        }
+      ]
+    },
+    {
+      "Route": "documents/Cookies.x2urmggmxi.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\Cookies.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "157806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CWdViolQ0BB5pS8w927bcJEnaQYyefzanQpX4eMXYnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 17:47:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2urmggmxi"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/Cookies.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CWdViolQ0BB5pS8w927bcJEnaQYyefzanQpX4eMXYnY="
+        }
+      ]
+    },
+    {
+      "Route": "documents/math_7.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\math_7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0ga4s3YTkhECpy0x7YDxTJVOBR+v08Zpg6hng7AjUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 07:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0ga4s3YTkhECpy0x7YDxTJVOBR+v08Zpg6hng7AjUs="
+        }
+      ]
+    },
+    {
+      "Route": "documents/math_7.vlzkveeg1l.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\math_7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "329040"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0ga4s3YTkhECpy0x7YDxTJVOBR+v08Zpg6hng7AjUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 07:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vlzkveeg1l"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/math_7.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0ga4s3YTkhECpy0x7YDxTJVOBR+v08Zpg6hng7AjUs="
+        }
+      ]
+    },
+    {
+      "Route": "documents/PedSostav.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\PedSostav.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hLto5l4qEcjI/FL7pUlIvD0Ms7Ro5GxPVqtEMhg+JVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:07:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hLto5l4qEcjI/FL7pUlIvD0Ms7Ro5GxPVqtEMhg+JVg="
+        }
+      ]
+    },
+    {
+      "Route": "documents/PedSostav.s8kcfhwwfs.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\PedSostav.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hLto5l4qEcjI/FL7pUlIvD0Ms7Ro5GxPVqtEMhg+JVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:07:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8kcfhwwfs"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/PedSostav.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hLto5l4qEcjI/FL7pUlIvD0Ms7Ro5GxPVqtEMhg+JVg="
+        }
+      ]
+    },
+    {
+      "Route": "documents/phys_7.8r6hs50iq2.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\phys_7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "365342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIxBqYeW0NNW3yI9GfncK6IuFRW/6c+2Tobv6fRAO6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 07:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8r6hs50iq2"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/phys_7.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIxBqYeW0NNW3yI9GfncK6IuFRW/6c+2Tobv6fRAO6I="
+        }
+      ]
+    },
+    {
+      "Route": "documents/phys_7.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\phys_7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "365342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIxBqYeW0NNW3yI9GfncK6IuFRW/6c+2Tobv6fRAO6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 07:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIxBqYeW0NNW3yI9GfncK6IuFRW/6c+2Tobv6fRAO6I="
+        }
+      ]
+    },
+    {
+      "Route": "documents/PublicOffer.46nu3h2kjh.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\PublicOffer.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "291851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NEjGuXm3T6XTbCyMf9vOxJFPWQipd/bicsopg+umFgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:08:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46nu3h2kjh"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/PublicOffer.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NEjGuXm3T6XTbCyMf9vOxJFPWQipd/bicsopg+umFgI="
+        }
+      ]
+    },
+    {
+      "Route": "documents/PublicOffer.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\PublicOffer.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "291851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NEjGuXm3T6XTbCyMf9vOxJFPWQipd/bicsopg+umFgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 14:08:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NEjGuXm3T6XTbCyMf9vOxJFPWQipd/bicsopg+umFgI="
+        }
+      ]
+    },
+    {
+      "Route": "documents/rus_1.7yg6kbnz4i.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\rus_1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T2uTUgk/GeZ1y/t+dsy++vHct7legvYyI+U4dWEU5ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 07:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7yg6kbnz4i"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/rus_1.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2uTUgk/GeZ1y/t+dsy++vHct7legvYyI+U4dWEU5ik="
+        }
+      ]
+    },
+    {
+      "Route": "documents/rus_1.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\rus_1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T2uTUgk/GeZ1y/t+dsy++vHct7legvYyI+U4dWEU5ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 07:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T2uTUgk/GeZ1y/t+dsy++vHct7legvYyI+U4dWEU5ik="
+        }
+      ]
+    },
+    {
+      "Route": "documents/Struct.954e2vshe8.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\Struct.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g9XyPvtUoG+1DsUx49n5nJV0mOePc07H4NoeOAlhsZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 Sep 2025 06:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "954e2vshe8"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/Struct.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g9XyPvtUoG+1DsUx49n5nJV0mOePc07H4NoeOAlhsZ0="
+        }
+      ]
+    },
+    {
+      "Route": "documents/Struct.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\Struct.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g9XyPvtUoG+1DsUx49n5nJV0mOePc07H4NoeOAlhsZ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 23 Sep 2025 06:54:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g9XyPvtUoG+1DsUx49n5nJV0mOePc07H4NoeOAlhsZ0="
+        }
+      ]
+    },
+    {
+      "Route": "documents/UserAccept.50gand6ybr.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\UserAccept.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hRrVs+3WDQQhtju3iRRZREMruCUZuN8rHd7r9a5O/DQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 17:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "50gand6ybr"
+        },
+        {
+          "Name": "label",
+          "Value": "documents/UserAccept.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRrVs+3WDQQhtju3iRRZREMruCUZuN8rHd7r9a5O/DQ="
+        }
+      ]
+    },
+    {
+      "Route": "documents/UserAccept.pdf",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\UserAccept.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hRrVs+3WDQQhtju3iRRZREMruCUZuN8rHd7r9a5O/DQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Sep 2025 17:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hRrVs+3WDQQhtju3iRRZREMruCUZuN8rHd7r9a5O/DQ="
+        }
+      ]
+    },
+    {
+      "Route": "feather.oi3czei5l5.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\ery8knq1f2-oi3czei5l5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000599161174"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1668"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n4BMer1jXGZ3IqXd2IAG/FmLoC5660N0vZNs2LaQZYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:40:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0Pe9dDSdsyshoDQzs2F6BWam59I0t00WHtF27fZuSj4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oi3czei5l5"
+        },
+        {
+          "Name": "label",
+          "Value": "feather.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Pe9dDSdsyshoDQzs2F6BWam59I0t00WHtF27fZuSj4="
+        }
+      ]
+    },
+    {
+      "Route": "feather.oi3czei5l5.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\feather.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2373"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Pe9dDSdsyshoDQzs2F6BWam59I0t00WHtF27fZuSj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:40:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oi3czei5l5"
+        },
+        {
+          "Name": "label",
+          "Value": "feather.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Pe9dDSdsyshoDQzs2F6BWam59I0t00WHtF27fZuSj4="
+        }
+      ]
+    },
+    {
+      "Route": "feather.oi3czei5l5.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\ery8knq1f2-oi3czei5l5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n4BMer1jXGZ3IqXd2IAG/FmLoC5660N0vZNs2LaQZYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:40:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oi3czei5l5"
+        },
+        {
+          "Name": "label",
+          "Value": "feather.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n4BMer1jXGZ3IqXd2IAG/FmLoC5660N0vZNs2LaQZYI="
+        }
+      ]
+    },
+    {
+      "Route": "feather.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\ery8knq1f2-oi3czei5l5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000599161174"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1668"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n4BMer1jXGZ3IqXd2IAG/FmLoC5660N0vZNs2LaQZYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:40:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0Pe9dDSdsyshoDQzs2F6BWam59I0t00WHtF27fZuSj4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Pe9dDSdsyshoDQzs2F6BWam59I0t00WHtF27fZuSj4="
+        }
+      ]
+    },
+    {
+      "Route": "feather.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\feather.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2373"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Pe9dDSdsyshoDQzs2F6BWam59I0t00WHtF27fZuSj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:40:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Pe9dDSdsyshoDQzs2F6BWam59I0t00WHtF27fZuSj4="
+        }
+      ]
+    },
+    {
+      "Route": "feather.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\ery8knq1f2-oi3czei5l5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n4BMer1jXGZ3IqXd2IAG/FmLoC5660N0vZNs2LaQZYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:40:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n4BMer1jXGZ3IqXd2IAG/FmLoC5660N0vZNs2LaQZYI="
+        }
+      ]
+    },
+    {
+      "Route": "index.bjsfxq2u1d.html",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\bthm2cbkzy-bjsfxq2u1d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003105590062"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WmFet4NxDDsT1pV+jUJcfx7pKaQfs/CbNTSZrPT817A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N0ecY5tJXUpmnReXGrbpciVHlhyTueK60WkBzW1CmHk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bjsfxq2u1d"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0ecY5tJXUpmnReXGrbpciVHlhyTueK60WkBzW1CmHk="
+        }
+      ]
+    },
+    {
+      "Route": "index.bjsfxq2u1d.html",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0ecY5tJXUpmnReXGrbpciVHlhyTueK60WkBzW1CmHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bjsfxq2u1d"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0ecY5tJXUpmnReXGrbpciVHlhyTueK60WkBzW1CmHk="
+        }
+      ]
+    },
+    {
+      "Route": "index.bjsfxq2u1d.html.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\bthm2cbkzy-bjsfxq2u1d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WmFet4NxDDsT1pV+jUJcfx7pKaQfs/CbNTSZrPT817A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bjsfxq2u1d"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WmFet4NxDDsT1pV+jUJcfx7pKaQfs/CbNTSZrPT817A="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\bthm2cbkzy-bjsfxq2u1d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003105590062"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WmFet4NxDDsT1pV+jUJcfx7pKaQfs/CbNTSZrPT817A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N0ecY5tJXUpmnReXGrbpciVHlhyTueK60WkBzW1CmHk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0ecY5tJXUpmnReXGrbpciVHlhyTueK60WkBzW1CmHk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0ecY5tJXUpmnReXGrbpciVHlhyTueK60WkBzW1CmHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0ecY5tJXUpmnReXGrbpciVHlhyTueK60WkBzW1CmHk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\bthm2cbkzy-bjsfxq2u1d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WmFet4NxDDsT1pV+jUJcfx7pKaQfs/CbNTSZrPT817A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Oct 2025 09:06:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WmFet4NxDDsT1pV+jUJcfx7pKaQfs/CbNTSZrPT817A="
+        }
+      ]
+    },
+    {
+      "Route": "logo.g4yp8aasdx.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\5myeot6yod-g4yp8aasdx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014763852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67732"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAjfoTwnLcD818Rtp3fxNE/xgubuLv+vLralUpAaIhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 18:54:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AHd/6JaOE+e91dWuMbuNtgSYVhNQeC7sWckf58/7N1o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4yp8aasdx"
+        },
+        {
+          "Name": "label",
+          "Value": "logo.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AHd/6JaOE+e91dWuMbuNtgSYVhNQeC7sWckf58/7N1o="
+        }
+      ]
+    },
+    {
+      "Route": "logo.g4yp8aasdx.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\logo.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AHd/6JaOE+e91dWuMbuNtgSYVhNQeC7sWckf58/7N1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 18:54:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4yp8aasdx"
+        },
+        {
+          "Name": "label",
+          "Value": "logo.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AHd/6JaOE+e91dWuMbuNtgSYVhNQeC7sWckf58/7N1o="
+        }
+      ]
+    },
+    {
+      "Route": "logo.g4yp8aasdx.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\5myeot6yod-g4yp8aasdx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAjfoTwnLcD818Rtp3fxNE/xgubuLv+vLralUpAaIhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 18:54:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4yp8aasdx"
+        },
+        {
+          "Name": "label",
+          "Value": "logo.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sAjfoTwnLcD818Rtp3fxNE/xgubuLv+vLralUpAaIhY="
+        }
+      ]
+    },
+    {
+      "Route": "logo.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\5myeot6yod-g4yp8aasdx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014763852"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67732"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAjfoTwnLcD818Rtp3fxNE/xgubuLv+vLralUpAaIhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 18:54:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AHd/6JaOE+e91dWuMbuNtgSYVhNQeC7sWckf58/7N1o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AHd/6JaOE+e91dWuMbuNtgSYVhNQeC7sWckf58/7N1o="
+        }
+      ]
+    },
+    {
+      "Route": "logo.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\logo.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AHd/6JaOE+e91dWuMbuNtgSYVhNQeC7sWckf58/7N1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 18:54:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AHd/6JaOE+e91dWuMbuNtgSYVhNQeC7sWckf58/7N1o="
+        }
+      ]
+    },
+    {
+      "Route": "logo.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\5myeot6yod-g4yp8aasdx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAjfoTwnLcD818Rtp3fxNE/xgubuLv+vLralUpAaIhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 18:54:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sAjfoTwnLcD818Rtp3fxNE/xgubuLv+vLralUpAaIhY="
+        }
+      ]
+    },
+    {
+      "Route": "menu.4lm84zw9yf.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\52a8ihe86w-4lm84zw9yf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000072817301"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13732"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o2TAl87VgjUN+n69pmfAcVYcUB6yIvpPEpzs3NXktsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:41:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WFRB6LJRGAhXpMEd1Xs4F6s+/49Eck2cHRZe9LMQHAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4lm84zw9yf"
+        },
+        {
+          "Name": "label",
+          "Value": "menu.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WFRB6LJRGAhXpMEd1Xs4F6s+/49Eck2cHRZe9LMQHAs="
+        }
+      ]
+    },
+    {
+      "Route": "menu.4lm84zw9yf.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\menu.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WFRB6LJRGAhXpMEd1Xs4F6s+/49Eck2cHRZe9LMQHAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:41:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4lm84zw9yf"
+        },
+        {
+          "Name": "label",
+          "Value": "menu.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WFRB6LJRGAhXpMEd1Xs4F6s+/49Eck2cHRZe9LMQHAs="
+        }
+      ]
+    },
+    {
+      "Route": "menu.4lm84zw9yf.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\52a8ihe86w-4lm84zw9yf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o2TAl87VgjUN+n69pmfAcVYcUB6yIvpPEpzs3NXktsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:41:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4lm84zw9yf"
+        },
+        {
+          "Name": "label",
+          "Value": "menu.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o2TAl87VgjUN+n69pmfAcVYcUB6yIvpPEpzs3NXktsw="
+        }
+      ]
+    },
+    {
+      "Route": "menu.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\52a8ihe86w-4lm84zw9yf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000072817301"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13732"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o2TAl87VgjUN+n69pmfAcVYcUB6yIvpPEpzs3NXktsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:41:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WFRB6LJRGAhXpMEd1Xs4F6s+/49Eck2cHRZe9LMQHAs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WFRB6LJRGAhXpMEd1Xs4F6s+/49Eck2cHRZe9LMQHAs="
+        }
+      ]
+    },
+    {
+      "Route": "menu.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\menu.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WFRB6LJRGAhXpMEd1Xs4F6s+/49Eck2cHRZe9LMQHAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:41:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WFRB6LJRGAhXpMEd1Xs4F6s+/49Eck2cHRZe9LMQHAs="
+        }
+      ]
+    },
+    {
+      "Route": "menu.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\52a8ihe86w-4lm84zw9yf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o2TAl87VgjUN+n69pmfAcVYcUB6yIvpPEpzs3NXktsw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 17:41:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o2TAl87VgjUN+n69pmfAcVYcUB6yIvpPEpzs3NXktsw="
+        }
+      ]
+    },
+    {
+      "Route": "slide1.93p0ovxppa.png",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\slide1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BcPnEzlRmWQjIkdit8qV1VDSYyt6LPoOLXGWlJMPvM4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 21:17:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "93p0ovxppa"
+        },
+        {
+          "Name": "label",
+          "Value": "slide1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BcPnEzlRmWQjIkdit8qV1VDSYyt6LPoOLXGWlJMPvM4="
+        }
+      ]
+    },
+    {
+      "Route": "slide1.png",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\slide1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BcPnEzlRmWQjIkdit8qV1VDSYyt6LPoOLXGWlJMPvM4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 21:17:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BcPnEzlRmWQjIkdit8qV1VDSYyt6LPoOLXGWlJMPvM4="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\oy5483ejex-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001288659794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 15:52:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 15:52:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\oy5483ejex-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 15:52:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\oy5483ejex-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001288659794"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 15:52:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 15:52:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg.gz",
+      "AssetFile": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\obj\\Debug\\net9.0\\compressed\\oy5483ejex-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "775"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Sep 2025 15:52:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XQkDcax/ToCYcNsBDmzd6VCkok+CNLm2INPe95PRPSM="
+        }
+      ]
+    }
+  ]
+}

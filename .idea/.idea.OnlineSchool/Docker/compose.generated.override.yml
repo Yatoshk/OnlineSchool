@@ -1,0 +1,22 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  onlineschool:
+    build:
+      context: "E:\\Projects\\Git\\ASP.NET\\OnlineSchool"
+      dockerfile: "OnlineSchool/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net9.0/OnlineSchool.dll"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      ASPNETCORE_STATICWEBASSETS: "/app/bin/Debug/net9.0/OnlineSchool.staticwebassets.runtime.CT.json"
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "onlineschool:dev"
+    ports: []
+    volumes:
+    - "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool:/app:rw"
+    - "E:\\Projects\\Git\\ASP.NET\\OnlineSchool:/src:rw"
+    - "C:\\Users\\chesa\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"
