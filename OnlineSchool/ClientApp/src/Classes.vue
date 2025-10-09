@@ -136,7 +136,7 @@ onMounted(() => {
                 </div>
 
                 <div v-else-if="item.type === '7_class'" class="documents-content">
-                  <p class="document-link">География</p>
+                  <p class="document-link" data-file="geography_7.pdf">География</p>
                   <p class="document-link" data-file="math_7.pdf">Математика</p>
                   <p class="document-link" data-file="phys_7.pdf">Физика</p>
                 </div>

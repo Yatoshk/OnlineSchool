@@ -299,7 +299,7 @@ onMounted(() => {
                   <p>*С 1 января 2021 года, в связи с изменениями в <span class="document-link" @click="goToLink('https://www.consultant.ru/document/cons_doc_LAW_341760/b5315c892df7002ac987a311b4a242874fdcf420/?ysclid=m5195yf6sr683845736')">законодательстве об образовании</span>, <br>
                     лицензии на осуществление образовательной деятельности на бланках не  <br>
                     выдаются. Наличие образовательной лицензии у организации подтверждается <br>
-                    выпиской из <span class="document-link" @click="goToLink('https://islod.obrnadzor.gov.ru/rlic/details/22666f28-afd1-0356-73c2-15330774e46c/')">федерального реестра</span> лицензий</p>
+                    выпиской из <span class="document-link" @click="goToLink('https://islod.obrnadzor.gov.ru/rlic/details/00261bcf-ee09-161b-e0bb-b0dc8dff0f30/')">федерального реестра</span> лицензий</p>
 
                   <p>Дополнительное образование детей и взрослых</p>
 
