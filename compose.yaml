@@ -33,7 +33,7 @@ services:
     volumes:
       - ./certbot/conf:/etc/letsencrypt
       - ./certbot/www:/var/www/certbot
-    command: certonly --webroot -w /var/www/certbot --email admin@example.com -d xn--80aaxgpcq9a7a.xn--p1ai --agree-tos --non-interactive
+    command: certonly --webroot -w /var/www/certbot --email rksh_online@inbox.ru -d xn--80aaxgpcq9a7a.xn--p1ai --agree-tos --non-interactive
     depends_on:
       - nginx
     networks:
