@@ -1,44 +1,28 @@
 ﻿version: '3.8'
 
 services:
-  # Основное приложение
   app:
     build:
       context: .
       dockerfile: OnlineSchool/Dockerfile
-    container_name: online-school-app
-    restart: unless-stopped
     networks:
       - app-network
+    restart: unless-stopped
 
-  # Nginx с SSL
   nginx:
     image: nginx:alpine
     ports:
-      - "80:80"    
-      - "443:443"  
+      - "80:80"
+      - "443:443"
     volumes:
       - ./nginx.conf:/etc/nginx/conf.d/default.conf
+      - ./certbot/conf:/etc/letsencrypt:ro
       - ./certbot/www:/var/www/certbot
     depends_on:
       - app
     networks:
       - app-network
     restart: unless-stopped
-
-  # Certbot для SSL
-  certbot:
-    image: certbot/certbot:latest
-    container_name: online-school-certbot
-    volumes:
-      - ./certbot/conf:/etc/letsencrypt
-      - ./certbot/www:/var/www/certbot
-    command: certonly --webroot -w /var/www/certbot --email rksh_online@inbox.ru -d xn--80aaxgpcq9a7a.xn--p1ai --agree-tos --non-interactive
-    depends_on:
-      - nginx
-    networks:
-      - app-network
-    restart: "no"
 
 networks:
   app-network:
