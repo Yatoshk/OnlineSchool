@@ -5,12 +5,12 @@
       "PackagePath": "staticwebassets\\arrow.svg"
     },
     {
-      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-CL4cUoRN.js",
-      "PackagePath": "staticwebassets\\assets\\index-CL4cUoRN.js"
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-C7RMET0o.js",
+      "PackagePath": "staticwebassets\\assets\\index-C7RMET0o.js"
     },
     {
-      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-DEWPlple.css",
-      "PackagePath": "staticwebassets\\assets\\index-DEWPlple.css"
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-DGFRcnO7.css",
+      "PackagePath": "staticwebassets\\assets\\index-DGFRcnO7.css"
     },
     {
       "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\background.svg",
@@ -119,6 +119,10 @@
     {
       "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\arifmetica_1.pdf",
       "PackagePath": "staticwebassets\\documents\\arifmetica_1.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\geography_7.pdf",
+      "PackagePath": "staticwebassets\\documents\\geography_7.pdf"
     },
     {
       "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\math_7.pdf",

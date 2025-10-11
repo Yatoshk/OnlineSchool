@@ -116,8 +116,9 @@ onMounted(() => {
                 <div v-else-if="item.type === '1_class'" class="documents-content">
                   <p class="document-link" data-file="arifmetica_1.pdf">Арифметика</p>
                   <p class="document-link" data-file="rus_1.pdf">Русский язык</p>
-                  <p class="document-link">Чтение</p>
-                  <p class="document-link">История</p>
+                  <p class="document-link" data-file="reading_1.pdf">Чтение</p>
+                  <p class="document-link" data-file="history_1.pdf">История</p>
+                  <p class="document-link" data-file="english_1.pdf">Английский язык</p>
                 </div>
 
                 <div v-else-if="item.type === '4_class'" class="documents-content">

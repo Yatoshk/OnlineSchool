@@ -40,6 +40,7 @@ E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\compressed\ht
 E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\compressed\ery8knq1f2-oi3czei5l5.gz
 E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\compressed\52a8ihe86w-4lm84zw9yf.gz
 E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\compressed\5myeot6yod-g4yp8aasdx.gz
-E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\compressed\3hi5g4ln4q-6s6ouus3bo.gz
-E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\compressed\zz2og9rcnu-115qixuie1.gz
-E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\compressed\bthm2cbkzy-bjsfxq2u1d.gz
+E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\OnlineSchool.sourcelink.json
+E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\compressed\o1q5she2q1-86uwx0itgp.gz
+E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\compressed\augq5ivwz2-164upqysd4.gz
+E:\Projects\Git\ASP.NET\OnlineSchool\OnlineSchool\obj\Debug\net9.0\compressed\bthm2cbkzy-14m2gkpt8m.gz
