@@ -47,6 +47,11 @@ interface AccordionItem {
 }
 const accordionItems = ref<AccordionItem[]>([
   {
+    title: 'Дошкольники',
+    isOpen: false,
+    type: 'preschoolers'
+  },
+  {
     title: '1 класс',
     isOpen: false,
     type: '1_class'
@@ -113,6 +118,10 @@ onMounted(() => {
                   <p class="document-link" data-file="Struct.pdf">Орг. структура</p>
                 </div>
 
+                <div v-else-if="item.type === 'preschoolers'" class="documents-content">
+                  <p class="document-link" data-file="preschoolers.pdf">Подготовка детей к школе</p>
+                </div>
+                
                 <div v-else-if="item.type === '1_class'" class="documents-content">
                   <p class="document-link" data-file="arifmetica_1.pdf">Арифметика</p>
                   <p class="document-link" data-file="rus_1.pdf">Русский язык</p>
@@ -130,17 +139,17 @@ onMounted(() => {
                 </div>
 
                 <div v-else-if="item.type === '6_class'" class="documents-content">
-                  <p class="document-link">Математика</p>
-                  <p class="document-link">Русский язык</p>
-                  <p class="document-link">Литература</p>
-                  <p class="document-link">История</p>
-                  <p class="document-link">Биология</p>
+                  <p class="document-link" data-file="math_6.pdf">Математика</p>
+                  <p class="document-link" data-file="rus_6.pdf">Русский язык</p>
+                  <p class="document-link" data-file="literature_6.pdf">Литература</p>
+                  <p class="document-link" data-file="history_6.pdf">История</p>
+                  <p class="document-link" data-file="biology_6.pdf">Биология</p>
                 </div>
 
                 <div v-else-if="item.type === '7_class'" class="documents-content">
-                  <p class="document-link" data-file="geography_7.pdf">География</p>
                   <p class="document-link" data-file="math_7.pdf">Математика</p>
                   <p class="document-link" data-file="phys_7.pdf">Физика</p>
+                  <p class="document-link" data-file="geography_7.pdf">География</p>
                 </div>
 
                 

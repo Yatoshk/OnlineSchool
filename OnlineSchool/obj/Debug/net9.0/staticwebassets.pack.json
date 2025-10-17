@@ -5,12 +5,12 @@
       "PackagePath": "staticwebassets\\arrow.svg"
     },
     {
-      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-C7RMET0o.js",
-      "PackagePath": "staticwebassets\\assets\\index-C7RMET0o.js"
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-CLxBfQc5.js",
+      "PackagePath": "staticwebassets\\assets\\index-CLxBfQc5.js"
     },
     {
-      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-DGFRcnO7.css",
-      "PackagePath": "staticwebassets\\assets\\index-DGFRcnO7.css"
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\assets\\index-CfL7VKoJ.css",
+      "PackagePath": "staticwebassets\\assets\\index-CfL7VKoJ.css"
     },
     {
       "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\background.svg",
@@ -121,8 +121,16 @@
       "PackagePath": "staticwebassets\\documents\\arifmetica_1.pdf"
     },
     {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\english_1.pdf",
+      "PackagePath": "staticwebassets\\documents\\english_1.pdf"
+    },
+    {
       "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\geography_7.pdf",
       "PackagePath": "staticwebassets\\documents\\geography_7.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\history_1.pdf",
+      "PackagePath": "staticwebassets\\documents\\history_1.pdf"
     },
     {
       "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\math_7.pdf",
@@ -131,6 +139,10 @@
     {
       "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\phys_7.pdf",
       "PackagePath": "staticwebassets\\documents\\phys_7.pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\reading_1.pdf",
+      "PackagePath": "staticwebassets\\documents\\reading_1.pdf"
     },
     {
       "Id": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\wwwroot\\documents\\rus_1.pdf",
