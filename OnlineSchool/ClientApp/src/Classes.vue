@@ -62,6 +62,11 @@ const accordionItems = ref<AccordionItem[]>([
     type: '4_class'
   },
   {
+    title: '5 класс',
+    isOpen: false,
+    type: '5_class'
+  },
+  {
     title: '6 класс',
     isOpen: false,
     type: '6_class'
@@ -70,7 +75,12 @@ const accordionItems = ref<AccordionItem[]>([
     title: '7 класс',
     isOpen: false,
     type: '7_class'
-  }
+  },
+  {
+    title: 'Церковнославянский язык',
+    isOpen: false,
+    type: 'church_slavonic_language'
+  },
   ])
 
 // Функция для открытия/закрытия аккордеона
@@ -138,6 +148,11 @@ onMounted(() => {
                   <p class="document-link" data-file="english_4.pdf">Английский язык</p>
                 </div>
 
+                <div v-else-if="item.type === '5_class'" class="documents-content">
+                  <p class="document-link" data-file="math_5.pdf">Математика</p>
+                  <p class="document-link" data-file="biology_5.pdf">Биология</p>
+                </div>
+                
                 <div v-else-if="item.type === '6_class'" class="documents-content">
                   <p class="document-link" data-file="math_6.pdf">Математика</p>
                   <p class="document-link" data-file="rus_6.pdf">Русский язык</p>
@@ -152,6 +167,9 @@ onMounted(() => {
                   <p class="document-link" data-file="geography_7.pdf">География</p>
                 </div>
 
+                <div v-else-if="item.type === 'church_slavonic_language'" class="documents-content">
+                  <p class="document-link" data-file="csl.pdf">Церковнославянский язык</p>
+                </div>
                 
                 <div v-else-if="item.content" v-html="item.content"></div>
 

@@ -280,6 +280,11 @@ onMounted(() => {
                   <p class="document-link" data-file="3.17.pdf">Правила рассмотрения запросов субъектов персональных данных или их<br>
                     представителей</p>
 
+                  <p class="document-link" data-file="3.18.pdf">Согласие на обработку персональных данных родителя и обучающегося</p>
+                  <p class="document-link" data-file="3.19.pdf">Шаблон Заявление о присоединении к публичной оферте</p>
+                  <p class="document-link" data-file="3.20.pdf">Шаблон Заявление о расторжении договора и возврате денежных средств</p>
+                  <p class="document-link" data-file="3.21.pdf">Шаблон Форма Уведомления об отзыве Оферты</p>
+                  
                   <p>Отчет о результатах самообследования – не проводилось</p>
 
                   <p>Предписания органов, осуществляющих государственный контроль (надзор) в<br>
@@ -314,8 +319,10 @@ onMounted(() => {
                   <p class="document-link" @click = "goToClasses(0)">Дошкольники</p>
                   <p class="document-link" @click = "goToClasses(1)">1 класс</p>
                   <p class="document-link" @click = "goToClasses(2)">4 класс</p>
-                  <p class="document-link" @click = "goToClasses(3)">6 класс</p>
-                  <p class="document-link" @click = "goToClasses(4)">7 класс</p>
+                  <p class="document-link" @click = "goToClasses(3)">5 класс</p>
+                  <p class="document-link" @click = "goToClasses(4)">6 класс</p>
+                  <p class="document-link" @click = "goToClasses(5)">7 класс</p>
+                  <p class="document-link" @click = "goToClasses(6)">Церковнославянский язык</p>
                   
                   <p>Форма обучения - дистанционная</p>
                   <p class="document-link" data-file="4.5.pdf">О языках образования</p>
