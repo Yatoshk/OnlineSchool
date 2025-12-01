@@ -20,11 +20,6 @@ const toggleMenu = () => {
   }
 }
 
-// Навигация
-const goToInformation = () => {
-  router.push('/information')
-  toggleMenu() // закрываем меню после перехода
-}
 const goToInformationContacts = () => {
   router.push({
     path: '/information',
@@ -32,8 +27,10 @@ const goToInformationContacts = () => {
   })
   toggleMenu() 
 }
-const goToHome = () => {
-  router.push('/')
+
+const goTo = (route: string) => {
+  router.push(route);
+  toggleMenu()
 }
 
 const handleClickOutside = (event: MouseEvent) => {
@@ -65,13 +62,13 @@ onUnmounted(() => {
 <template>
   <div :style="{ alignItems: 'center' }">
     <div class="menu">
-      <img class="document-item" src="/logo.svg" alt="логотип" width="138" height="40" @click="goToHome">
+      <img class="document-item" src="/logo.svg" alt="логотип" width="138" height="40" @click="goTo('/')">
       <div class="nav">
-        <p class="document-item" :style="{ margin: '10px' }" @click = "goToLink('https://vk.com/uslugi-204212571?screen=group')">Направления</p>
-        <p class="document-item" :style="{ margin: '10px' }" @click = "goToLink('https://vk.com/rksh_online?from=groups&w=wall-204212571_5680')">О нас</p>
-        <p class="document-item" :style="{ margin: '10px' }" @click = "goToLink('https://vk.com/topic-204212571_47666309')">Отзывы</p>
+        <p class="document-item" :style="{ margin: '10px' }" @click = "goTo('/prices')">Услуги</p>
+        <p class="document-item" :style="{ margin: '10px' }" @click = "goTo('/about')">О нас</p>
+        <p class="document-item" :style="{ margin: '10px' }" @click = "goToLink('/reviews')">Отзывы</p>
         <p class="document-item" :style="{ margin: '10px' }" @click = "goToInformationContacts">Контакты</p>
-        <p class="document-item" :style="{ margin: '10px', textAlign: 'center' }" @click = "goToInformation">Сведения об образовательной<br> организации</p>
+        <p class="document-item" :style="{ margin: '10px', textAlign: 'center' }" @click = "goTo('/information')">Сведения об образовательной<br> организации</p>
       </div>
       <div class="menu-button-container">
         <button class="menu-button" id="menuButton" @click="toggleMenu">
@@ -85,12 +82,9 @@ onUnmounted(() => {
           <li class="menu-list-item">5 - 7 класс</li>
           <li class="menu-list-item">8 класс</li>
           <li class="menu-list-item">Дополнительные предметы</li>
-          <li class="menu-list-item">О нас</li>
-          <li class="menu-list-item">Отзывы</li>
-          <li class="menu-list-item">Контакты</li>
-<!--          <li class="menu-list-item" id="infoItem" @click="goToInformation">-->
-<!--            Сведения об образовательной организации-->
-<!--          </li>-->
+          <li class="menu-list-item" @click = "goTo('/about')">О нас</li>
+          <li class="menu-list-item" @click = "goToLink('/reviews')">Отзывы</li>
+          <li class="menu-list-item" @click = "goToInformationContacts">Контакты</li>
         </ul>
       </div>
     </div>
