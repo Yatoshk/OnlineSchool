@@ -57,6 +57,16 @@ const accordionItems = ref<AccordionItem[]>([
     type: '1_class'
   },
   {
+    title: '2 класс',
+    isOpen: false,
+    type: '2_class'
+  },
+  {
+    title: '3 класс',
+    isOpen: false,
+    type: '3_class'
+  },
+  {
     title: '4 класс',
     isOpen: false,
     type: '4_class'
@@ -140,6 +150,16 @@ onMounted(() => {
                   <p class="document-link" data-file="english_1.pdf">Английский язык</p>
                 </div>
 
+                <div v-else-if="item.type === '2_class'" class="documents-content">
+                  <p class="document-link" data-file="history_2.pdf">История</p>
+                  <p class="document-link" data-file="english_2.pdf">Английский язык</p>
+                </div>
+
+                <div v-else-if="item.type === '3_class'" class="documents-content">
+                  <p class="document-link" data-file="history_3.pdf">История</p>
+                  <p class="document-link" data-file="english_3.pdf">Английский язык</p>
+                </div>
+                
                 <div v-else-if="item.type === '4_class'" class="documents-content">
                   <p class="document-link" data-file="arifmetica_4.pdf">Арифметика</p>
                   <p class="document-link" data-file="rus_4.pdf">Русский язык</p>
@@ -150,8 +170,12 @@ onMounted(() => {
 
                 <div v-else-if="item.type === '5_class'" class="documents-content">
                   <p class="document-link" data-file="math_5.pdf">Математика</p>
+                  <p class="document-link" data-file="rus_5.pdf">Русский язык</p>
+                  <p class="document-link" data-file="literature_5.pdf">Литература</p>
+                  <p class="document-link" data-file="history_5.pdf">История</p>
                   <p class="document-link" data-file="english_5.pdf">Английский язык</p>
                   <p class="document-link" data-file="biology_5.pdf">Биология</p>
+                  <p class="document-link" data-file="geography_5.pdf">География</p>
                 </div>
                 
                 <div v-else-if="item.type === '6_class'" class="documents-content">
@@ -161,6 +185,7 @@ onMounted(() => {
                   <p class="document-link" data-file="history_6.pdf">История</p>
                   <p class="document-link" data-file="english_6.pdf">Английский язык</p>
                   <p class="document-link" data-file="biology_6.pdf">Биология</p>
+                  <p class="document-link" data-file="geography_6.pdf">География</p>
                 </div>
 
                 <div v-else-if="item.type === '7_class'" class="documents-content">
