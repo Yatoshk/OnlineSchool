@@ -318,11 +318,13 @@ onMounted(() => {
                   
                   <p class="document-link" @click = "goToClasses(0)">Дошкольники</p>
                   <p class="document-link" @click = "goToClasses(1)">1 класс</p>
-                  <p class="document-link" @click = "goToClasses(2)">4 класс</p>
-                  <p class="document-link" @click = "goToClasses(3)">5 класс</p>
-                  <p class="document-link" @click = "goToClasses(4)">6 класс</p>
-                  <p class="document-link" @click = "goToClasses(5)">7 класс</p>
-                  <p class="document-link" @click = "goToClasses(6)">Церковнославянский язык</p>
+                  <p class="document-link" @click = "goToClasses(2)">2 класс</p>
+                  <p class="document-link" @click = "goToClasses(3)">3 класс</p>
+                  <p class="document-link" @click = "goToClasses(4)">4 класс</p>
+                  <p class="document-link" @click = "goToClasses(5)">5 класс</p>
+                  <p class="document-link" @click = "goToClasses(6)">6 класс</p>
+                  <p class="document-link" @click = "goToClasses(7)">7 класс</p>
+                  <p class="document-link" @click = "goToClasses(8)">Церковнославянский язык</p>
                   
                   <p>Форма обучения - дистанционная</p>
                   <p class="document-link" data-file="4.5.pdf">О языках образования</p>
