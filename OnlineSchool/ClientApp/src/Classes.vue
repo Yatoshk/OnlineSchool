@@ -150,6 +150,7 @@ onMounted(() => {
 
                 <div v-else-if="item.type === '5_class'" class="documents-content">
                   <p class="document-link" data-file="math_5.pdf">Математика</p>
+                  <p class="document-link" data-file="english_5.pdf">Английский язык</p>
                   <p class="document-link" data-file="biology_5.pdf">Биология</p>
                 </div>
                 
@@ -158,11 +159,13 @@ onMounted(() => {
                   <p class="document-link" data-file="rus_6.pdf">Русский язык</p>
                   <p class="document-link" data-file="literature_6.pdf">Литература</p>
                   <p class="document-link" data-file="history_6.pdf">История</p>
+                  <p class="document-link" data-file="english_6.pdf">Английский язык</p>
                   <p class="document-link" data-file="biology_6.pdf">Биология</p>
                 </div>
 
                 <div v-else-if="item.type === '7_class'" class="documents-content">
                   <p class="document-link" data-file="math_7.pdf">Математика</p>
+                  <p class="document-link" data-file="english_7.pdf">Английский язык</p>
                   <p class="document-link" data-file="phys_7.pdf">Физика</p>
                   <p class="document-link" data-file="geography_7.pdf">География</p>
                 </div>
