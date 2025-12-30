@@ -198,6 +198,11 @@ const accordionItems = ref<AccordionItem[]>([
       организациями по вопросам образования и науки – <b>нет.</b><br>
       Международной аккредитации образовательных программ – <b>нет.</b> </p>
     `
+  },
+  {
+    title: 'Архив',
+    isOpen: false,
+    type: 'archive'
   }
 ])
 
@@ -344,6 +349,15 @@ onMounted(() => {
                   <p class="document-link" data-file="Payment.pdf">Стоимость по образовательным программам</p>
 
                   <p class="document-link" data-file="PublicOffer.pdf">Публичная оферта</p>
+                  
+                </div>
+
+                <div v-else-if="item.type === 'archive'" class="documents-content">
+                  
+                  <p class="document-link" data-file="Payment_old.pdf">Стоимость по образовательным программам</p>
+
+                  <p class="document-link" data-file="PublicOffer_old.pdf">Публичная оферта</p>
+
                 </div>
 
                 <!-- Обычный контент через v-html -->
