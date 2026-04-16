@@ -11,6 +11,16 @@ services:
     networks:
       - app-network
 
+  # Второе приложение (копия)
+  app-copy:
+    build:
+      context: .
+      dockerfile: OnlineSchoolCopy/WebApp/Dockerfile # Или другой Dockerfile, если приложения разные
+    container_name: online-school-app-copy
+    restart: unless-stopped
+    networks:
+      - app-network
+
   # Nginx с SSL
   nginx:
     image: nginx:alpine
@@ -24,6 +34,7 @@ services:
       - ./cert/www:/var/www/certbot:ro
     depends_on:
       - app
+      - app-copy
     networks:
       - app-network
     restart: unless-stopped

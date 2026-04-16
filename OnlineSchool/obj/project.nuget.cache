@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vkqi0ANzCas=",
+  "dgSpecHash": "RgwtDAMqYqI=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\OnlineSchool\\OnlineSchool\\OnlineSchool.csproj",
+  "projectFilePath": "E:\\Projects\\Git\\ASP.NET\\OnlineSchool\\OnlineSchool\\OnlineSchool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chesa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "C:\\Users\\chesa\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
