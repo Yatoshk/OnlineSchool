@@ -14,8 +14,8 @@ services:
   # Второе приложение (копия)
   app-copy:
     build:
-      context: .
-      dockerfile: OnlineSchoolCopy/WebApp/Dockerfile # Или другой Dockerfile, если приложения разные
+      context: ./OnlineSchoolCopy/WebApp
+      dockerfile: Dockerfile 
     container_name: online-school-app-copy
     restart: unless-stopped
     networks:
