@@ -9,8 +9,7 @@ import Reviews from "@/views/Reviews.vue"
 import About from "@/views/About.vue"
 
 const routes = [
-    { path: '/', component: Home, name: 'Главная', meta: { title: 'Главная страница' }  },
-    { path: '/home', component: Home, name: 'Главная', meta: { title: 'Главная страница' } },
+    { path: '/', component: Home, name: 'Главная страница', meta: { title: 'Главная страница' }  },
     { path: '/information', component: Information, name: 'Информация', meta: { title: 'Информация о школе' } },
     { path: '/classes', component: Classes, name: 'Классы', meta: { title: 'Классы' } },
     { path: '/prices', component: Prices, name: 'Услуги', meta: { title: 'Услуги' } },
