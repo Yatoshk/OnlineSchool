@@ -52,15 +52,15 @@ onMounted(() => {
   <div class="bottom">
     <div :style="{ marginRight: '20vh' }">
       <img src="@/assets/images/logo.png" alt="логотип" class="document-item-img">
-      <p>ИП Нафина Гузялия Альфритовна</p>
-      <p>ИНН 732712462945</p>
-      <p>ОГРНИП 323730000023040</p>
+      <p>ИП Нафин Ильмир Фанилевич</p>
+      <p>ИНН 732772420315</p>
+      <p>ОГРНИП 326730000018273</p>
     </div>
     <div class="bottom_column2">
-      <p class="document-item" @click="openDocument('PublicOffer.pdf')">Публичная оферта</p>
-      <p class="document-item" @click="openDocument('3.9.pdf')">Политика защиты и обработки персональных данных</p>
-      <p class="document-item" @click="openDocument('4.1.pdf')">Лицензия</p>
-      <p class="document-item" @click="openDocument('Cookies.pdf')">Политика cookies</p>
+      <p class="document-item" @click="openDocument('PublicOffer_online.pdf')">Публичная оферта</p>
+      <p class="document-item" @click="openDocument('3.9_online.pdf')">Политика защиты и обработки персональных данных</p>
+      <p class="document-item" @click="openDocument('4.1_online.pdf')">Лицензия</p>
+      <p class="document-item" @click="openDocument('Cookies_online.pdf')">Политика cookies</p>
       <p class="document-item" @click="toggleCookie">Пользовательское соглашение</p>
     </div>
 
@@ -86,9 +86,10 @@ onMounted(() => {
     cursor: pointer;
   width: 10%;
   height: aut0;
+  padding: 10px;
 }
 .bottom {
-  position: relative
+  position: relative;
 }
 
 .bottom_column2 {

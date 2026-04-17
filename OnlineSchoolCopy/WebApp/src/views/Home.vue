@@ -36,8 +36,8 @@ setInterval(nextSlide, 10000)
     <Menu></Menu>
 
     <div class="content">
-      <div class="content-column" :style="{marginRight: '15vh'}">
-        <p :style="{margin : 0, fontSize: '45px', fontWeight: 100, fontFamily: 'Poiret One'}">Детская онлайн-школа</p>
+      <div class="content-column" :style="{marginRight: '3vh'}">
+        <p :style="{margin : 0, fontSize: '45px', fontWeight: 100, fontFamily: 'Poiret One'}">Детская онлайн школа</p>
         <p :style="{margin : 0, fontSize: '45px', fontWeight: 100, marginBottom: '1vh', fontFamily: 'Poiret One'}">дополнительного образования</p>
         <p :style="{margin : 0, fontSize: '80px', fontWeight: 800}">ПАРУС</p>
         
@@ -49,7 +49,9 @@ setInterval(nextSlide, 10000)
           </div>
         </div> -->
       </div>
-      <div class="content-column">
+      <img src="@/assets/images/main-logo.png" :style="{width : '40%'}">
+     <!--  <div class="content-column">
+        <img src="@/assets/images/main-logo.png" :style="{width : '40%'}">
         <div class="slider">
           <div class="slider-wrapper" :style="{ transform: `translateX(-${currentSlide * 100}%)` }">
             <div v-for="(slide, index) in slides" :key="index" class="slide">
@@ -69,7 +71,7 @@ setInterval(nextSlide, 10000)
             ></button>
           </div>
         </div>
-      </div>
+      </div> -->
       </div>
 
     <Bottom></Bottom>
@@ -79,6 +81,10 @@ setInterval(nextSlide, 10000)
 <style scoped>
 .content{
   background-color: #FDFDFD;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 .slider {
   position: relative;
