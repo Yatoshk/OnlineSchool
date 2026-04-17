@@ -1,7 +1,10 @@
-<script setup>
+<script setup lang="ts">
 import Menu from "@/components/layout/Menu.vue";
 import Bottom from "@/components/layout/Bottom.vue";
-
+const link = document.createElement('link');
+link.rel = 'stylesheet';
+link.href = 'https://fonts.googleapis.com/css2?family=Poiret+One&display=swap';
+document.head.appendChild(link);
 import { ref } from 'vue'
 
 const currentSlide = ref(0)
@@ -34,17 +37,17 @@ setInterval(nextSlide, 10000)
 
     <div class="content">
       <div class="content-column" :style="{marginRight: '15vh'}">
-        <p :style="{margin : 0, fontSize: '60px', fontWeight: 600, backgroundColor: '#4D84BB', color: '#FFFFFF', textAlign: 'center', borderRadius: '25px'}">ЛИЦЕНЗИРОВАННАЯ</p>
-        <p :style="{margin : 0, fontSize: '80px', fontWeight: 800}">ОНЛАЙН-ШКОЛА</p>
-        <p :style="{margin : 0, fontSize: '45px', fontWeight: 200}">ДОПОЛНИТЕЛЬНОГО</p>
-        <p :style="{margin : 0, fontSize: '45px', fontWeight: 200, marginBottom: '6vh'}">ОБРАЗОВАНИЯ</p>
-        <div :style="{display: 'flex'}">
+        <p :style="{margin : 0, fontSize: '45px', fontWeight: 100, fontFamily: 'Poiret One'}">Детская онлайн-школа</p>
+        <p :style="{margin : 0, fontSize: '45px', fontWeight: 100, marginBottom: '1vh', fontFamily: 'Poiret One'}">дополнительного образования</p>
+        <p :style="{margin : 0, fontSize: '80px', fontWeight: 800}">ПАРУС</p>
+        
+        <!-- <div :style="{display: 'flex'}">
           <img src="@/assets/images/feather.svg" alt="перо" width="65px" height="65px">
           <div class="content-column" :style="{marginLeft: '1vh'}">
             <p :style="{margin : 0, fontSize: '25px', fontWeight: 200}">Работаем по программе</p>
             <p :style="{margin : 0, fontSize: '25px', fontWeight: 600}">Русская Классическая Школа</p>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="content-column">
         <div class="slider">
@@ -157,4 +160,11 @@ setInterval(nextSlide, 10000)
 .dot.active {
   background: #E2ECF6;
 }
+
+.poiret-one-regular {
+  font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 </style>

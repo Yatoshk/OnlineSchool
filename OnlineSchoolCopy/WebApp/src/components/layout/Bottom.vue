@@ -51,7 +51,7 @@ onMounted(() => {
 <template>
   <div class="bottom">
     <div :style="{ marginRight: '20vh' }">
-      <img src="@/assets/images/logo.svg" alt="логотип" width="220" height="64">
+      <img src="@/assets/images/logo.png" alt="логотип" class="document-item-img">
       <p>ИП Нафина Гузялия Альфритовна</p>
       <p>ИНН 732712462945</p>
       <p>ОГРНИП 323730000023040</p>
@@ -82,6 +82,11 @@ onMounted(() => {
   cursor: pointer;
 }
 
+.document-item-img {
+    cursor: pointer;
+  width: 10%;
+  height: aut0;
+}
 .bottom {
   position: relative
 }

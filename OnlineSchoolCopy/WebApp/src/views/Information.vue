@@ -56,25 +56,25 @@ const accordionItems = ref<AccordionItem[]>([
     title: 'Основные сведения',
     isOpen: false,
     content: `
-      <p>Полное наименование организации: Индивидуальный предприниматель Нафина Гузялия Альфритовна
-      <br>ИНН 732712462945, ОГРНИП 323730000023040
-      <br>Сокращенное наименование организации: ИП Нафина Г.А.</p>
+      <p>Полное наименование организации: Индивидуальный предприниматель Нафин Ильмир Фанилевич
+      <br>ИНН 732772420315, ОГРНИП 326730000018273
+      <br>Сокращенное наименование организации: ИП Нафин И.Ф.</p>
       
-      <p>Дата создания организации: 18.04.2023 г.</p>
+      <p>Дата создания организации: 06.03.2026 г.</p>
       
       <p>Юридический адрес: 432030, г. Ульяновск, ул. Ипподромная, 4Б-462</p>
       
       <p>Организация не имеет представительств и филиалов, в том числе находящихся <br>за пределами Российской Федерации.</p>
-      <p>Место осуществления образовательной деятельности: <br>г. Ульяновск, ул. Ипподромная, 4Б-462</p>
+      <p>Место осуществления образовательной деятельности: г. Ульяновск, ул. Ипподромная, 4Б-462</p>
       <p>Режим работы: понедельник - суббота 8.00-17.00 мск
       <br>Воскресенье - выходной</p>
       
       <p>Телефон: +7 (927) 100-48-95</p>
       
       <p>Адрес электронной почты
-      <br>rksh_online@inbox.ru</p>
+      <br>rkshonline@mail.ru</p>
       
-      <p>Адрес официального сайта: ркшнафина.рф</p>
+      <p>Адрес официального сайта: parusrksh.ru</p>
     `
   },
   {
@@ -249,48 +249,48 @@ onMounted(() => {
               <div class="accordion-inner">
                 <!-- Специальные блоки для типов с документами -->
                 <div v-if="item.type === 'structure'" class="documents-content">
-                  <p class="document-link" data-file="Struct.pdf">Орг. структура</p>
+                  <p class="document-link" data-file="Struct_online.pdf">Орг. структура</p>
                 </div>
 
                 <div v-else-if="item.type === 'documents'" class="documents-content">
                   <h3>Правоустанавливающие документы</h3>
-                  <p class="document-link" data-file="3.1.pdf">Свидетельство о постановке на учет российской организации в налоговом органе</p>
-                  <p class="document-link" data-file="3.2.pdf">Выписка из ЕГРИП</p>
+                  <p class="document-link" data-file="3.1_online.pdf">Свидетельство о постановке на учет российской организации в налоговом органе</p>
+                  <p class="document-link" data-file="3.2_online.pdf">Выписка из ЕГРИП</p>
 
                   <h3>Локальные нормативные акты</h3>
-                  <p class="document-link" data-file="3.3.pdf">Правила приема, перевода, отчисления и восстановления обучающихся</p>
+                  <p class="document-link" data-file="3.3_online.pdf">Правила приема, перевода, отчисления и восстановления обучающихся</p>
 
-                  <p class="document-link" data-file="3.4.pdf">Положение о текущей, промежуточной и итоговой аттестации, выдаче документов о<br>
+                  <p class="document-link" data-file="3.4_online.pdf">Положение о текущей, промежуточной и итоговой аттестации, выдаче документов о<br>
                     прохождении программы</p>
 
-                  <p class="document-link" data-file="3.5.pdf">Правила внутреннего распорядка обучающегося</p>
-                  <p class="document-link" data-file="3.6.pdf">Правила внутреннего трудового распорядка</p>
-                  <p class="document-link" data-file="3.7.pdf">Положение о режиме занятий</p>
+                  <p class="document-link" data-file="3.5_online.pdf">Правила внутреннего распорядка обучающегося</p>
+                  <p class="document-link" data-file="3.6_online.pdf">Правила внутреннего трудового распорядка</p>
+                  <p class="document-link" data-file="3.7_online.pdf">Положение о режиме занятий</p>
 
-                  <p class="document-link" data-file="3.8.pdf">Правила ведения учета и осуществления хранения результатов образовательного<br>
+                  <p class="document-link" data-file="3.8_online.pdf">Правила ведения учета и осуществления хранения результатов образовательного<br>
                     процесса и внутреннего документооборота на бумажном и электронно-цифровом<br>
                     носителе при реализации образовательных программ или их частей с<br>
                     применением электронного обучения, дистанционных образовательных<br>
                     технологий</p>
 
-                  <p class="document-link" data-file="3.9.pdf">Политика защиты и обработки персональных данных</p>
-                  <p class="document-link" data-file="3.10.pdf">Положение об электронном журнале успеваемости</p>
-                  <p class="document-link" data-file="3.11.pdf">Положение об электронной информационно-образовательной среде</p>
-                  <p class="document-link" data-file="3.12.pdf">Шаблон согласия на обработку персональных данных обучающихся</p>
-                  <p class="document-link" data-file="3.13.pdf">Шаблон согласия на обработку персональных данных работника</p>
-                  <p class="document-link" data-file="3.14.pdf">Шаблон отзыва на обработку персональных данных</p>
-                  <p class="document-link" data-file="3.15.pdf">Положение о работе с персональными данными работников</p>
-                  <p class="document-link" data-file="3.16.pdf">Положение о работе с персональными данными клиентов и контрагентов</p>
+                  <p class="document-link" data-file="3.9_online.pdf">Политика защиты и обработки персональных данных</p>
+                  <p class="document-link" data-file="3.10_online.pdf">Положение об электронном журнале успеваемости</p>
+                  <p class="document-link" data-file="3.11_online.pdf">Положение об электронной информационно-образовательной среде</p>
+                  <p class="document-link" data-file="3.12_online.pdf">Шаблон согласия на обработку персональных данных обучающихся</p>
+                  <p class="document-link" data-file="3.13_online.pdf">Шаблон согласия на обработку персональных данных работника</p>
+                  <p class="document-link" data-file="3.14_online.pdf">Шаблон отзыва на обработку персональных данных</p>
+                  <p class="document-link" data-file="3.15_online.pdf">Положение о работе с персональными данными работников</p>
+                  <p class="document-link" data-file="3.16_online.pdf">Положение о работе с персональными данными клиентов и контрагентов</p>
 
-                  <p class="document-link" data-file="3.17.pdf">Правила рассмотрения запросов субъектов персональных данных или их<br>
+                  <p class="document-link" data-file="3.17_online.pdf">Правила рассмотрения запросов субъектов персональных данных или их<br>
                     представителей</p>
 
-                  <p class="document-link" data-file="3.18.pdf">Согласие на обработку персональных данных родителя и обучающегося</p>
-                  <p class="document-link" data-file="3.19.pdf">Шаблон Заявление о присоединении к публичной оферте</p>
-                  <p class="document-link" data-file="3.20.pdf">Шаблон Заявление о расторжении договора и возврате денежных средств</p>
-                  <p class="document-link" data-file="3.21.pdf">Шаблон Форма Уведомления об отзыве Оферты</p>
+                  <p class="document-link" data-file="3.18_online.pdf">Согласие на обработку персональных данных родителя и обучающегося</p>
+                  <p class="document-link" data-file="3.19_online.pdf">Шаблон Заявление о присоединении к публичной оферте</p>
+                  <p class="document-link" data-file="3.20_online.pdf">Шаблон Заявление о расторжении договора и возврате денежных средств</p>
+                  <p class="document-link" data-file="3.21_online.pdf">Шаблон Форма Уведомления об отзыве Оферты</p>
                   
-                  <p class="document-link" data-file="3.22.pdf">Отчет о результатах самообследования</p>
+                  <p class="document-link" data-file="3.22_online.pdf">Отчет о результатах самообследования</p>
 
                   <p>Предписания органов, осуществляющих государственный контроль (надзор) в<br>
                     сфере образования, отчеты об исполнении таких предписаний (до подтверждения<br>
@@ -305,12 +305,12 @@ onMounted(() => {
                     дополнительного образования для детей и взрослых, выданной министерством <br>
                     просвещения и воспитания Ульяновской области</p>
 
-                  <p class="document-link" @click="goToLink('https://islod.obrnadzor.gov.ru/rlic/details/00261bcf-ee09-161b-e0bb-b0dc8dff0f30/')">Выписка из реестра лицензий на осуществление образовательной деятельности*</p>
+                  <p class="document-link" @click="goToLink('https://islod.obrnadzor.gov.ru/rlic/details/')">Выписка из реестра лицензий на осуществление образовательной деятельности*</p>
 
-                  <p>*С 1 января 2021 года, в связи с изменениями в <span class="document-link" @click="goToLink('https://www.consultant.ru/document/cons_doc_LAW_341760/b5315c892df7002ac987a311b4a242874fdcf420/?ysclid=m5195yf6sr683845736')">законодательстве об образовании</span>, <br>
+                  <p>*С 1 января 2021 года, в связи с изменениями в <span class="document-link" @click="goToLink('https://www.consultant.ru/document/')">законодательстве об образовании</span>, <br>
                     лицензии на осуществление образовательной деятельности на бланках не  <br>
                     выдаются. Наличие образовательной лицензии у организации подтверждается <br>
-                    выпиской из <span class="document-link" @click="goToLink('https://islod.obrnadzor.gov.ru/rlic/details/00261bcf-ee09-161b-e0bb-b0dc8dff0f30/')">федерального реестра</span> лицензий</p>
+                    выпиской из <span class="document-link" @click="goToLink('https://islod.obrnadzor.gov.ru/rlic/details/')">федерального реестра</span> лицензий</p>
 
                   <p>Дополнительное образование детей и взрослых</p>
 
@@ -332,7 +332,7 @@ onMounted(() => {
                   <p class="document-link" @click = "goToClasses(8)">Церковнославянский язык</p>
                   
                   <p>Форма обучения - дистанционная</p>
-                  <p class="document-link" data-file="4.5.pdf">О языках образования</p>
+                  <p class="document-link" data-file="4.5_online.pdf">О языках образования</p>
                 </div>
 
                 <div v-else-if="item.type === 'teachers'" class="documents-content">
@@ -341,24 +341,24 @@ onMounted(() => {
                     работы и уровня образования, и не имеющими ограничений для занятия <br>
                     педагогической деятельностью.</p>
 
-                  <p class="document-link" data-file="PedSostav.pdf">Педагогический состав</p>
+                  <p class="document-link" data-file="PedSostav_online.pdf">Педагогический состав</p>
                 </div>
 
                 <div v-else-if="item.type === 'paid-services'" class="documents-content">
-                  <p class="document-link" data-file="RegulationsOnTheProcedure.pdf">Положение о порядке оказания платных образовательных услуг</p>
-                  <p class="document-link" data-file="SampleContract.pdf">Образец договора об оказании платных образовательных услуг средствами <br>
+                  <p class="document-link" data-file="RegulationsOnTheProcedure_online.pdf">Положение о порядке оказания платных образовательных услуг</p>
+                  <p class="document-link" data-file="SampleContract_online.pdf">Образец договора об оказании платных образовательных услуг средствами <br>
                     материнского капитала </p>
-                  <p class="document-link" data-file="Payment.pdf">Стоимость по образовательным программам</p>
+                  <p class="document-link" data-file="Payment_online.pdf">Стоимость по образовательным программам</p>
 
-                  <p class="document-link" data-file="PublicOffer.pdf">Публичная оферта</p>
+                  <p class="document-link" data-file="PublicOffer_online.pdf">Публичная оферта</p>
                   
                 </div>
 
                 <div v-else-if="item.type === 'archive'" class="documents-content">
                   
-                  <p class="document-link" data-file="Payment_old.pdf">Стоимость по образовательным программам</p>
+                  <p class="document-link" data-file="Payment_old_online.pdf">Стоимость по образовательным программам</p>
 
-                  <p class="document-link" data-file="PublicOffer_old.pdf">Публичная оферта</p>
+                  <p class="document-link" data-file="PublicOffer_old_online.pdf">Публичная оферта</p>
 
                 </div>
 

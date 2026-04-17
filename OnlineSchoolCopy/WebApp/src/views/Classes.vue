@@ -135,74 +135,74 @@ onMounted(() => {
             <div class="accordion-content" v-if="item.isOpen">
               <div class="accordion-inner">
                 <div v-if="item.type === 'structure'" class="documents-content">
-                  <p class="document-link" data-file="/Struct.pdf">Орг. структура</p>
+                  <p class="document-link" data-file="/Struct_online.pdf">Орг. структура</p>
                 </div>
 
                 <div v-else-if="item.type === 'preschoolers'" class="documents-content">
-                  <p class="document-link" data-file="/preschoolers.pdf">Подготовка детей к школе</p>
+                  <p class="document-link" data-file="/preschoolers_online.pdf">Подготовка детей к школе</p>
                 </div>
                 
                 <div v-else-if="item.type === '1_class'" class="documents-content">
-                  <p class="document-link" data-file="arifmetica_1.pdf">Арифметика</p>
-                  <p class="document-link" data-file="rus_1.pdf">Русский язык</p>
-                  <p class="document-link" data-file="reading_1.pdf">Чтение</p>
-                  <p class="document-link" data-file="history_1.pdf">История</p>
-                  <p class="document-link" data-file="english_1.pdf">Английский язык</p>
+                  <p class="document-link" data-file="arifmetica_1_online.pdf">Арифметика</p>
+                  <p class="document-link" data-file="rus_1_online.pdf">Русский язык</p>
+                  <p class="document-link" data-file="reading_1_online.pdf">Чтение</p>
+                  <p class="document-link" data-file="history_1_online.pdf">История</p>
+                  <p class="document-link" data-file="english_1_online.pdf">Английский язык</p>
                 </div>
 
                 <div v-else-if="item.type === '2_class'" class="documents-content">
-                  <p class="document-link" data-file="arifmetica_2.pdf">Арифметика</p>
-                  <p class="document-link" data-file="rus_2.pdf">Русский язык</p>
-                  <p class="document-link" data-file="reading_2.pdf">Чтение</p>
-                  <p class="document-link" data-file="history_2.pdf">История</p>
-                  <p class="document-link" data-file="english_2.pdf">Английский язык</p>
+                  <p class="document-link" data-file="arifmetica_2_online.pdf">Арифметика</p>
+                  <p class="document-link" data-file="rus_2_online.pdf">Русский язык</p>
+                  <p class="document-link" data-file="reading_2_online.pdf">Чтение</p>
+                  <p class="document-link" data-file="history_2_online.pdf">История</p>
+                  <p class="document-link" data-file="english_2_online.pdf">Английский язык</p>
                 </div>
 
                 <div v-else-if="item.type === '3_class'" class="documents-content">
-                  <p class="document-link" data-file="arifmetica_3.pdf">Арифметика</p>
-                  <p class="document-link" data-file="rus_3.pdf">Русский язык</p>
-                  <p class="document-link" data-file="reading_3.pdf">Чтение</p>
-                  <p class="document-link" data-file="history_3.pdf">История</p>
-                  <p class="document-link" data-file="english_3.pdf">Английский язык</p>
+                  <p class="document-link" data-file="arifmetica_3_online.pdf">Арифметика</p>
+                  <p class="document-link" data-file="rus_3_online.pdf">Русский язык</p>
+                  <p class="document-link" data-file="reading_3_online.pdf">Чтение</p>
+                  <p class="document-link" data-file="history_3_online.pdf">История</p>
+                  <p class="document-link" data-file="english_3_online.pdf">Английский язык</p>
                 </div>
                 
                 <div v-else-if="item.type === '4_class'" class="documents-content">
-                  <p class="document-link" data-file="arifmetica_4.pdf">Арифметика</p>
-                  <p class="document-link" data-file="rus_4.pdf">Русский язык</p>
-                  <p class="document-link" data-file="reading_4.pdf">Чтение</p>
-                  <p class="document-link" data-file="history_4.pdf">История</p>
-                  <p class="document-link" data-file="english_4.pdf">Английский язык</p>
+                  <p class="document-link" data-file="arifmetica_4_online.pdf">Арифметика</p>
+                  <p class="document-link" data-file="rus_4_online.pdf">Русский язык</p>  
+                  <p class="document-link" data-file="reading_4_online.pdf">Чтение</p>
+                  <p class="document-link" data-file="history_4_online.pdf">История</p>
+                  <p class="document-link" data-file="english_4_online.pdf">Английский язык</p>
                 </div>
 
                 <div v-else-if="item.type === '5_class'" class="documents-content">
-                  <p class="document-link" data-file="math_5.pdf">Математика</p>
-                  <p class="document-link" data-file="rus_5.pdf">Русский язык</p>
-                  <p class="document-link" data-file="literature_5.pdf">Литература</p>
-                  <p class="document-link" data-file="history_5.pdf">История</p>
-                  <p class="document-link" data-file="english_5.pdf">Английский язык</p>
-                  <p class="document-link" data-file="biology_5.pdf">Биология</p>
-                  <p class="document-link" data-file="geography_5.pdf">География</p>
+                  <p class="document-link" data-file="math_5_online.pdf">Математика</p>
+                  <p class="document-link" data-file="rus_5_online.pdf">Русский язык</p>
+                  <p class="document-link" data-file="literature_5_online.pdf">Литература</p>
+                  <p class="document-link" data-file="history_5_online.pdf">История</p>
+                  <p class="document-link" data-file="english_5_online.pdf">Английский язык</p>
+                  <p class="document-link" data-file="biology_5_online.pdf">Биология</p>
+                  <p class="document-link" data-file="geography_5_online.pdf">География</p>
                 </div>
                 
                 <div v-else-if="item.type === '6_class'" class="documents-content">
-                  <p class="document-link" data-file="math_6.pdf">Математика</p>
-                  <p class="document-link" data-file="rus_6.pdf">Русский язык</p>
-                  <p class="document-link" data-file="literature_6.pdf">Литература</p>
-                  <p class="document-link" data-file="history_6.pdf">История</p>
-                  <p class="document-link" data-file="english_6.pdf">Английский язык</p>
-                  <p class="document-link" data-file="biology_6.pdf">Биология</p>
-                  <p class="document-link" data-file="geography_6.pdf">География</p>
+                  <p class="document-link" data-file="math_6_online.pdf">Математика</p>
+                  <p class="document-link" data-file="rus_6_online.pdf">Русский язык</p>
+                  <p class="document-link" data-file="literature_6_online.pdf">Литература</p>
+                  <p class="document-link" data-file="history_6_online.pdf">История</p>
+                  <p class="document-link" data-file="english_6_online.pdf">Английский язык</p>
+                  <p class="document-link" data-file="biology_6_online.pdf">Биология</p>
+                  <p class="document-link" data-file="geography_6_online.pdf">География</p>
                 </div>
 
                 <div v-else-if="item.type === '7_class'" class="documents-content">
-                  <p class="document-link" data-file="math_7.pdf">Математика</p>
-                  <p class="document-link" data-file="english_7.pdf">Английский язык</p>
-                  <p class="document-link" data-file="phys_7.pdf">Физика</p>
-                  <p class="document-link" data-file="geography_7.pdf">География</p>
+                  <p class="document-link" data-file="math_7_online.pdf">Математика</p>
+                  <p class="document-link" data-file="english_7_online.pdf">Английский язык</p>
+                  <p class="document-link" data-file="phys_7_online.pdf">Физика</p>
+                  <p class="document-link" data-file="geography_7_online.pdf">География</p>
                 </div>
 
                 <div v-else-if="item.type === 'church_slavonic_language'" class="documents-content">
-                  <p class="document-link" data-file="csl.pdf">Церковнославянский язык</p>
+                  <p class="document-link" data-file="csl_online.pdf">Церковнославянский язык</p>
                 </div>
                 
                 <div v-else-if="item.content" v-html="item.content"></div>

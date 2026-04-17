@@ -62,7 +62,7 @@ onUnmounted(() => {
 <template>
   <div :style="{ alignItems: 'center' }">
     <div class="menu">
-      <img class="document-item" src="@/assets/images/logo.svg" alt="логотип" width="138" height="40" @click="goTo('/')">
+      <img class="document-item-img" src="@/assets/images/logo.png" alt="логотип" @click="goTo('/')">
       <div class="nav">
         <p class="document-item" :style="{ margin: '10px' }" @click = "goTo('/prices')">Услуги</p>
         <p class="document-item" :style="{ margin: '10px' }" @click = "goTo('/about')">О нас</p>
@@ -94,6 +94,12 @@ onUnmounted(() => {
 <style scoped>
 .document-item {
   cursor: pointer;
+}
+
+.document-item-img {
+  cursor: pointer;
+  width: 3%;
+  height: aut0;
 }
 .nav {
   justify-content: center;
