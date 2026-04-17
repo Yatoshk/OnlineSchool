@@ -65,8 +65,8 @@ onUnmounted(() => {
       <img class="document-item-img" src="@/assets/images/logo.png" alt="логотип" @click="goTo('/')">
       <div class="nav">
         <p class="document-item" :style="{ margin: '10px' }" @click = "goTo('/prices')">Услуги</p>
-        <p class="document-item" :style="{ margin: '10px' }" @click = "goTo('/about')">О нас</p>
-        <p class="document-item" :style="{ margin: '10px' }" @click = "goToLink('/reviews')">Отзывы</p>
+        <!-- <p class="document-item" :style="{ margin: '10px' }" @click = "goTo('/about')">О нас</p>
+        <p class="document-item" :style="{ margin: '10px' }" @click = "goToLink('/reviews')">Отзывы</p> -->
         <p class="document-item" :style="{ margin: '10px' }" @click = "goToInformationContacts">Контакты</p>
         <p class="document-item" :style="{ margin: '10px', textAlign: 'center' }" @click = "goTo('/information')">Сведения об образовательной<br> организации</p>
       </div>
@@ -82,8 +82,8 @@ onUnmounted(() => {
           <li class="menu-list-item">5 - 7 класс</li>
           <li class="menu-list-item">8 класс</li>
           <li class="menu-list-item">Дополнительные предметы</li>
-          <li class="menu-list-item" @click = "goTo('/about')">О нас</li>
-          <li class="menu-list-item" @click = "goToLink('/reviews')">Отзывы</li>
+          <!-- <li class="menu-list-item" @click = "goTo('/about')">О нас</li>
+          <li class="menu-list-item" @click = "goToLink('/reviews')">Отзывы</li> -->
           <li class="menu-list-item" @click = "goToInformationContacts">Контакты</li>
         </ul>
       </div>
@@ -141,8 +141,7 @@ onUnmounted(() => {
   justify-content: center;
   position: absolute;
   padding: 0;
-  width: 220px;
-  height: 354px;
+  flex: 1;
   font-size: 16px; 
   color: #ffffff;
   background: #4D84BB;

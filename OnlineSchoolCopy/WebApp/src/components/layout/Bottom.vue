@@ -59,7 +59,7 @@ onMounted(() => {
     <div class="bottom_column2">
       <p class="document-item" @click="openDocument('PublicOffer_online.pdf')">Публичная оферта</p>
       <p class="document-item" @click="openDocument('3.9_online.pdf')">Политика защиты и обработки персональных данных</p>
-      <p class="document-item" @click="openDocument('4.1_online.pdf')">Лицензия</p>
+      <p class="document-item" @click="openDocument('Lic_online.pdf')">Лицензия</p>
       <p class="document-item" @click="openDocument('Cookies_online.pdf')">Политика cookies</p>
       <p class="document-item" @click="toggleCookie">Пользовательское соглашение</p>
     </div>

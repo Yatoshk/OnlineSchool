@@ -13,8 +13,8 @@ const routes = [
     { path: '/information', component: Information, name: 'Информация', meta: { title: 'Информация о школе' } },
     { path: '/classes', component: Classes, name: 'Классы', meta: { title: 'Классы' } },
     { path: '/prices', component: Prices, name: 'Услуги', meta: { title: 'Услуги' } },
-    { path: '/reviews', component: Reviews, name: 'Отзывы', meta: { title: 'Отзывы о школе' } },
-    { path: '/about', component: About, name: 'О нас', meta: { title: 'О нас о школе' } },
+    // { path: '/reviews', component: Reviews, name: 'Отзывы', meta: { title: 'Отзывы о школе' } },
+    // { path: '/about', component: About, name: 'О нас', meta: { title: 'О нас о школе' } },
     {
         path: '/:pathMatch(.*)*', 
         component: NotFound, name: '404', meta: { title: '404 Not Found' }
