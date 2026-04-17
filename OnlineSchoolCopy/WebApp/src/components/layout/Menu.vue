@@ -62,7 +62,7 @@ onUnmounted(() => {
 <template>
   <div :style="{ alignItems: 'center' }">
     <div class="menu">
-      <img class="document-item-img" src="@/assets/images/logo.png" alt="логотип" @click="goTo('/')">
+      <img class="document-item-img" src="@/assets/images/logo.png" alt="логотип" @click="goTo('/home')">
       <div class="nav">
         <p class="document-item" :style="{ margin: '10px' }" @click = "goTo('/prices')">Услуги</p>
         <p class="document-item" :style="{ margin: '10px' }" @click = "goTo('/about')">О нас</p>
