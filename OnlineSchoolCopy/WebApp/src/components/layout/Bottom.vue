@@ -66,7 +66,7 @@ onMounted(() => {
 
     <div class="cookie" id="Cookie" ref="Cookie" :class="{ 'show': isCookieOpen }">
       <p :style="{fontWeight: 500, fontSize: '18px', textAlign: 'center'}">Используя наш сайт, вы даете <br>
-        <u class="document-item" @click="openDocument('UserAccept.pdf')">пользовательское соглашение</u> на<br>
+        <u class="document-item" @click="openDocument('UserAccept_online.pdf')">пользовательское соглашение</u> на<br>
         использование файлов cookie</p>
       <p :style="{fontWeight: 100, fontSize: '16px'}">Политика конфиденциальности</p>
       <div>

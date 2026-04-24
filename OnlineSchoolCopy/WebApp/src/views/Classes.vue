@@ -87,6 +87,11 @@ const accordionItems = ref<AccordionItem[]>([
     type: '7_class'
   },
   {
+    title: '8 класс',
+    isOpen: false,
+    type: '8_class'
+  },
+  {
     title: 'Церковнославянский язык',
     isOpen: false,
     type: 'church_slavonic_language'
@@ -199,6 +204,10 @@ onMounted(() => {
                   <p class="document-link" data-file="english_7_online.pdf">Английский язык</p>
                   <p class="document-link" data-file="phys_7_online.pdf">Физика</p>
                   <p class="document-link" data-file="geography_7_online.pdf">География</p>
+                </div>
+
+                <div v-else-if="item.type === '8_class'" class="documents-content">
+                  <p class="document-link" data-file="english_8_online.pdf">Английский язык</p>
                 </div>
 
                 <div v-else-if="item.type === 'church_slavonic_language'" class="documents-content">

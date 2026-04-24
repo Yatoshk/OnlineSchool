@@ -321,7 +321,8 @@ onMounted(() => {
                   <p class="document-link" @click = "goToClasses(5)">5 класс</p>
                   <p class="document-link" @click = "goToClasses(6)">6 класс</p>
                   <p class="document-link" @click = "goToClasses(7)">7 класс</p>
-                  <p class="document-link" @click = "goToClasses(8)">Церковнославянский язык</p>
+                  <p class="document-link" @click = "goToClasses(8)">8 класс</p>
+                  <p class="document-link" @click = "goToClasses(9)">Церковнославянский язык</p>
                   
                   <p>Форма обучения - дистанционная</p>
                   <p class="document-link" data-file="4.5_online.pdf">О языках образования</p>
@@ -333,7 +334,7 @@ onMounted(() => {
                     работы и уровня образования, и не имеющими ограничений для занятия <br>
                     педагогической деятельностью.</p>
 
-                  <!-- <p class="document-link" data-file="PedSostav_online.pdf">Педагогический состав</p> -->
+                  <p class="document-link" data-file="PedSostav_online.pdf">Педагогический состав</p> 
                 </div>
 
                 <div v-else-if="item.type === 'paid-services'" class="documents-content">
