@@ -140,6 +140,7 @@ onMounted(() => {
 
                 <div v-else-if="item.type === 'preschoolers'" class="documents-content">
                   <p class="document-link" data-file="preschoolers.pdf">Подготовка детей к школе</p>
+                  <p class="document-link" data-file="preschoolersRKSH.pdf">Подготовка детей по РКШ</p>
                 </div>
                 
                 <div v-else-if="item.type === '1_class'" class="documents-content">
