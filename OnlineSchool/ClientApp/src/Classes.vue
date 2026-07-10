@@ -200,6 +200,7 @@ onMounted(() => {
                   <p class="document-link" data-file="english_7.pdf">Английский язык</p>
                   <p class="document-link" data-file="phys_7.pdf">Физика</p>
                   <p class="document-link" data-file="geography_7.pdf">География</p>
+                
                 </div>
 
                 <div v-else-if="item.type === 'church_slavonic_language'" class="documents-content">
