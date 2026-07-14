@@ -212,7 +212,8 @@ onMounted(() => {
                 </div>
 
                 <div v-else-if="item.type === 'church_slavonic_language'" class="documents-content">
-                  <p class="document-link" data-file="csl_online.pdf">Церковнославянский язык</p>
+                  <p class="document-link" data-file="csl_1_online.pdf">Церковнославянский язык 1 год обучения</p>
+                  <p class="document-link" data-file="csl_2_online.pdf">Церковнославянский язык 2 год обучения</p>
                 </div>
                 
                 <div v-else-if="item.content" v-html="item.content"></div>

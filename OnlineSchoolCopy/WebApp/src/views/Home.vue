@@ -41,37 +41,10 @@ setInterval(nextSlide, 10000)
         <p :style="{margin : 0, fontSize: '45px', fontWeight: 100, marginBottom: '1vh', fontFamily: 'Poiret One'}">дополнительного образования</p>
         <p :style="{margin : 0, fontSize: '80px', fontWeight: 800}">ПАРУС</p>
         
-        <!-- <div :style="{display: 'flex'}">
-          <img src="@/assets/images/feather.svg" alt="перо" width="65px" height="65px">
-          <div class="content-column" :style="{marginLeft: '1vh'}">
-            <p :style="{margin : 0, fontSize: '25px', fontWeight: 200}">Работаем по программе</p>
-            <p :style="{margin : 0, fontSize: '25px', fontWeight: 600}">Русская Классическая Школа</p>
-          </div>
-        </div> -->
+       
       </div>
-      <img src="@/assets/images/main-logo.png" :style="{width : '40%'}">
-     <!--  <div class="content-column">
-        <img src="@/assets/images/main-logo.png" :style="{width : '40%'}">
-        <div class="slider">
-          <div class="slider-wrapper" :style="{ transform: `translateX(-${currentSlide * 100}%)` }">
-            <div v-for="(slide, index) in slides" :key="index" class="slide">
-              <img :src="slide.image" :alt="slide.title" class="slide-image">
-            </div>
-          </div>
-
-          <button class="slider-btn prev" @click="prevSlide">‹</button>
-          <button class="slider-btn next" @click="nextSlide">›</button>
-
-          <div class="slider-dots">
-            <button
-                v-for="(_, index) in slides"
-                :key="index"
-                :class="['dot', { active: currentSlide === index }]"
-                @click="goToSlide(index)"
-            ></button>
-          </div>
-        </div>
-      </div> -->
+      <img src="@/assets/images/logo_online_school.jpg" :style="{width : '40%', borderRadius: '25px'}">
+     
       </div>
 
     <Bottom></Bottom>

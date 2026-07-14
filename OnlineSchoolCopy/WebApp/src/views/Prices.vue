@@ -19,51 +19,51 @@ const cardItems = ref<PriceItem[]> ([
     {
       picture: new URL('@/assets/prices/price1.png', import.meta.url).href,
       description: ['Классы: до 4 учеников', 'Учеба: 2 занятия в неделю по 2 урока', 'Утренняя и вечерняя группа'],
-      price: '600',
+      price: '630',
       isOne: true
     },
     {
       picture: new URL('@/assets/prices/price2.png', import.meta.url).href,
       description: ['Классы: до 10 учеников', 'Учеба: 5 дней в неделю с домашними заданиями и обратной связью от учителя', '16 уроков в неделю по программе РКШ'],
-      price: '9 900 – 16 720',
+      price: '11 858 – 18 150',
       clarification: 'Стоимость зависит от класса и количества уроков в учебном месяце.\n' +
-          'Цена актуальна на 2025-26 уч.год.',
+          'Цена актуальна на 2026-27 уч.год.',
       isOne: false
     },
     {
       picture: new URL('@/assets/prices/price3.png', import.meta.url).href,
-      description: ['Классы: до 12 учеников', 'Учеба: 5 дней в неделю с домашними заданиями и обратной связью от учителя', '21 урок в неделю по программе РКШ'],
-      price: '18 480 – 42 000',
+      description: ['Классы: до 12 учеников в 5-6 классах', 'Классы: до 14 учеников в 7-9 классах', 'Учеба: 5 дней в неделю с домашними заданиями и обратной связью от учителя', '21 урок в неделю по программе РКШ'],
+      price: '20 636 – 42 196',
       clarification: 'Стоимость зависит от класса и количества уроков в учебном месяце.\n' +
-          'Цена актуальна на 2025-26 уч.год.',
+          'Цена актуальна на 2026-27 уч.год.',
       isOne: false
     },
     {
       picture: new URL('@/assets/prices/price4.png', import.meta.url).href,
       description: ['Классы: до 12 учеников', 'Учеба: 3-4 урока в неделю'],
-      price: '360 – 500',
-      clarification: 'Стоимость зависит от класса. Цена актуальна на 2025-26 уч.год',
+      price: '396 – 550',
+      clarification: 'Стоимость зависит от класса. Цена актуальна на 2026-27 уч.год',
       isOne: true
     },
     {
       picture: new URL('@/assets/prices/price5.png', import.meta.url).href,
       description: ['Классы: до 10 учеников', 'Учеба: 1 урок в неделю'],
-      price: '600',
-      clarification: 'Цена актуальна на 2025-26 уч.год.',
+      price: '630',
+      clarification: 'Цена актуальна на 2026-27 уч.год.',
       isOne: true
     },
     {
       picture: new URL('@/assets/prices/price6.png', import.meta.url).href,
       description: ['Классы: до 10 учеников', 'Учеба: 1 урок в неделю'],
-      price: '600',
-      clarification: 'Цена актуальна на 2025-26 уч.год.',
+      price: '630',
+      clarification: 'Цена актуальна на 2026-27 уч.год.',
       isOne: true
     },
     {
       picture: new URL('@/assets/prices/price7.png', import.meta.url).href,
       description: ['Классы: до 10 учеников', 'Учеба: 1 урок в неделю'],
-      price: '600',
-      clarification: 'Цена актуальна на 2025-26 уч.год.',
+      price: '630',
+      clarification: 'Цена актуальна на 2026-27 уч.год.',
       isOne: true
     },
   ]
