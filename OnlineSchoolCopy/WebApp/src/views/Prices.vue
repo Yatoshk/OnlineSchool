@@ -224,6 +224,7 @@ h1 {
 .card-image {
   justify-content: center;
   align-items: center;
+  max-width: 250px;
 }
 .card-content {
   flex: 1;
