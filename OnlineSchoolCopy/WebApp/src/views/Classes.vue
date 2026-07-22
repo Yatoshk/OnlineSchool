@@ -96,6 +96,11 @@ const accordionItems = ref<AccordionItem[]>([
     isOpen: false,
     type: 'church_slavonic_language'
   },
+  {
+    title: 'Уроки творчества',
+    isOpen: false,
+    type: 'creative_workshops'
+  },
   ])
 
 // Функция для открытия/закрытия аккордеона
@@ -144,7 +149,7 @@ onMounted(() => {
                 </div>
 
                 <div v-else-if="item.type === 'preschoolers'" class="documents-content">
-                  <p class="document-link" data-file="/preschoolers_online.pdf">Подготовка детей к школе</p>
+                  <p class="document-link" data-file="preschoolers_online.pdf">Подготовка детей к школе</p>
                 </div>
                 
                 <div v-else-if="item.type === '1_class'" class="documents-content">
@@ -201,6 +206,7 @@ onMounted(() => {
 
                 <div v-else-if="item.type === '7_class'" class="documents-content">
                   <p class="document-link" data-file="math_7_online.pdf">Математика</p>
+                  <p class="document-link" data-file="rus_7_online.pdf">Русский язык</p>
                   <p class="document-link" data-file="english_7_online.pdf">Английский язык</p>
                   <p class="document-link" data-file="phys_7_online.pdf">Физика</p>
                   <p class="document-link" data-file="geography_7_online.pdf">География</p>
@@ -214,6 +220,11 @@ onMounted(() => {
                 <div v-else-if="item.type === 'church_slavonic_language'" class="documents-content">
                   <p class="document-link" data-file="csl_1_online.pdf">Церковнославянский язык 1 год обучения</p>
                   <p class="document-link" data-file="csl_2_online.pdf">Церковнославянский язык 2 год обучения</p>
+                </div>
+
+                <div v-else-if="item.type === 'creative_workshops'" class="documents-content">
+                  <p class="document-link" data-file="cw_1_4_online.pdf">Уроки творчества 1-4 классы</p>
+                  <p class="document-link" data-file="cw_5_8_online.pdf">Уроки творчества 5-8 классы</p>
                 </div>
                 
                 <div v-else-if="item.content" v-html="item.content"></div>

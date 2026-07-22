@@ -323,7 +323,8 @@ onMounted(() => {
                   <p class="document-link" @click = "goToClasses(7)">7 класс</p>
                   <p class="document-link" @click = "goToClasses(8)">8 класс</p>
                   <p class="document-link" @click = "goToClasses(9)">Церковнославянский язык</p>
-                  
+                  <p class="document-link" @click = "goToClasses(10)">Уроки творчества</p>
+
                   <p>Форма обучения - дистанционная</p>
                   <p class="document-link" data-file="4.5_online.pdf">О языках образования</p>
                 </div>
