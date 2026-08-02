@@ -35,8 +35,8 @@ onMounted(() => {
 
   if (openAccordionIndex) {
     const index = typeof openAccordionIndex === 'string'
-        ? parseInt(openAccordionIndex)
-        : parseInt(openAccordionIndex[0])
+      ? parseInt(openAccordionIndex)
+      : parseInt(openAccordionIndex[0])
 
     if (!isNaN(index) && index >= 0 && index < accordionItems.value.length) {
       openAccordion(index)
@@ -191,6 +191,11 @@ const accordionItems = ref<AccordionItem[]>([
       Международной аккредитации образовательных программ – <b>нет.</b> </p>
     `
   },
+  {
+    title: 'Информационная безопасность',
+    isOpen: false,
+    type: 'safety'
+  },
   // {
   //   title: 'Архив',
   //   isOpen: false,
@@ -227,12 +232,8 @@ onMounted(() => {
     <div class="content">
       <div class="content-column">
         <ol class="document-list">
-          <li
-              v-for="(item, index) in accordionItems"
-              :key="index"
-              class="document-list-item"
-              :class="{ 'active': item.isOpen }"
-          >
+          <li v-for="(item, index) in accordionItems" :key="index" class="document-list-item"
+            :class="{ 'active': item.isOpen }">
             <div class="accordion-header" @click="toggleAccordion(index)">
               <span>{{ item.title }}</span>
               <span class="accordion-icon">{{ item.isOpen ? '−' : '+' }}</span>
@@ -246,42 +247,57 @@ onMounted(() => {
 
                 <div v-else-if="item.type === 'documents'" class="documents-content">
                   <h3>Правоустанавливающие документы</h3>
-                  <p class="document-link" data-file="3.1_online.pdf">Свидетельство о постановке на учет российской организации в налоговом органе</p>
+                  <p class="document-link" data-file="3.1_online.pdf">Свидетельство о постановке на учет российской
+                    организации в налоговом органе</p>
                   <p class="document-link" data-file="3.2_online.pdf">Выписка из ЕГРИП</p>
 
                   <h3>Локальные нормативные акты</h3>
-                  <p class="document-link" data-file="3.3_online.pdf">Правила приема, перевода, отчисления и восстановления обучающихся</p>
+                  <p class="document-link" data-file="3.3_online.pdf">Правила приема, перевода, отчисления и
+                    восстановления обучающихся</p>
 
-                  <p class="document-link" data-file="3.4_online.pdf">Положение о текущей, промежуточной и итоговой аттестации, выдаче документов о<br>
+                  <p class="document-link" data-file="3.4_online.pdf">Положение о текущей, промежуточной и итоговой
+                    аттестации, выдаче документов о<br>
                     прохождении программы</p>
 
                   <p class="document-link" data-file="3.5_online.pdf">Правила внутреннего распорядка обучающегося</p>
                   <p class="document-link" data-file="3.6_online.pdf">Правила внутреннего трудового распорядка</p>
                   <p class="document-link" data-file="3.7_online.pdf">Положение о режиме занятий</p>
 
-                  <p class="document-link" data-file="3.8_online.pdf">Правила ведения учета и осуществления хранения результатов образовательного<br>
+                  <p class="document-link" data-file="3.8_online.pdf">Правила ведения учета и осуществления хранения
+                    результатов образовательного<br>
                     процесса и внутреннего документооборота на бумажном и электронно-цифровом<br>
                     носителе при реализации образовательных программ или их частей с<br>
                     применением электронного обучения, дистанционных образовательных<br>
                     технологий</p>
 
-                  <p class="document-link" data-file="3.9_online.pdf">Политика защиты и обработки персональных данных</p>
+                  <p class="document-link" data-file="3.9_online.pdf">Политика защиты и обработки персональных данных
+                  </p>
                   <p class="document-link" data-file="3.10_online.pdf">Положение об электронном журнале успеваемости</p>
-                  <p class="document-link" data-file="3.11_online.pdf">Положение об электронной информационно-образовательной среде</p>
-                  <p class="document-link" data-file="3.12_online.pdf">Шаблон согласия на обработку персональных данных обучающихся</p>
-                  <p class="document-link" data-file="3.13_online.pdf">Шаблон согласия на обработку персональных данных работника</p>
-                  <p class="document-link" data-file="3.14_online.pdf">Шаблон отзыва на обработку персональных данных</p>
-                  <p class="document-link" data-file="3.15_online.pdf">Положение о работе с персональными данными работников</p>
-                  <p class="document-link" data-file="3.16_online.pdf">Положение о работе с персональными данными клиентов и контрагентов</p>
+                  <p class="document-link" data-file="3.11_online.pdf">Положение об электронной
+                    информационно-образовательной среде</p>
+                  <p class="document-link" data-file="3.12_online.pdf">Шаблон согласия на обработку персональных данных
+                    обучающихся</p>
+                  <p class="document-link" data-file="3.13_online.pdf">Шаблон согласия на обработку персональных данных
+                    работника</p>
+                  <p class="document-link" data-file="3.14_online.pdf">Шаблон отзыва на обработку персональных данных
+                  </p>
+                  <p class="document-link" data-file="3.15_online.pdf">Положение о работе с персональными данными
+                    работников</p>
+                  <p class="document-link" data-file="3.16_online.pdf">Положение о работе с персональными данными
+                    клиентов и контрагентов</p>
 
-                  <p class="document-link" data-file="3.17_online.pdf">Правила рассмотрения запросов субъектов персональных данных или их<br>
+                  <p class="document-link" data-file="3.17_online.pdf">Правила рассмотрения запросов субъектов
+                    персональных данных или их<br>
                     представителей</p>
 
-                  <p class="document-link" data-file="3.18_online.pdf">Согласие на обработку персональных данных родителя и обучающегося</p>
-                  <p class="document-link" data-file="3.19_online.pdf">Шаблон Заявление о присоединении к публичной оферте</p>
-                  <p class="document-link" data-file="3.20_online.pdf">Шаблон Заявление о расторжении договора и возврате денежных средств</p>
+                  <p class="document-link" data-file="3.18_online.pdf">Согласие на обработку персональных данных
+                    родителя и обучающегося</p>
+                  <p class="document-link" data-file="3.19_online.pdf">Шаблон Заявление о присоединении к публичной
+                    оферте</p>
+                  <p class="document-link" data-file="3.20_online.pdf">Шаблон Заявление о расторжении договора и
+                    возврате денежных средств</p>
                   <p class="document-link" data-file="3.21_online.pdf">Шаблон Форма Уведомления об отзыве Оферты</p>
-                  
+
                   <!-- <p class="document-link" data-file="3.22_online.pdf">Отчет о результатах самообследования</p> -->
                   <p>Отчет о результатах самообследования - не проводилось</p>
                   <p>Предписания органов, осуществляющих государственный контроль (надзор) в<br>
@@ -299,61 +315,123 @@ onMounted(() => {
 
                   <p class="document-link" data-file="4.1_online.pdf">Лицензия на образовательную деятельность</p>
 
-                  <p>*С 1 января 2021 года, в связи с изменениями в <span class="document-link" @click="goToLink('https://www.consultant.ru/document/')">законодательстве об образовании</span>, <br>
-                    лицензии на осуществление образовательной деятельности на бланках не  <br>
+                  <p>*С 1 января 2021 года, в связи с изменениями в <span class="document-link"
+                      @click="goToLink('https://www.consultant.ru/document/')">законодательстве об образовании</span>,
+                    <br>
+                    лицензии на осуществление образовательной деятельности на бланках не <br>
                     выдаются. Наличие образовательной лицензии у организации подтверждается <br>
-                    выпиской из <span class="document-link" @click="goToLink('https://islod.obrnadzor.gov.ru/rlic/details/')">федерального реестра</span> лицензий</p>
+                    выпиской из <span class="document-link"
+                      @click="goToLink('https://islod.obrnadzor.gov.ru/rlic/details/')">федерального реестра</span>
+                    лицензий</p>
 
                   <p>Дополнительное образование детей и взрослых</p>
 
                   <p>Дополнительное общеобразовательное общеразвивающая программа социально-
-                    <br>гуманиторной направленности "Подготовка детей к школе"</p>
+                    <br>гуманиторной направленности "Подготовка детей к школе"
+                  </p>
 
                   <h3>Сведения об образовательных программах</h3>
 
                   <!--<p class="document-link" data-file="4.4.pdf">О реализуемых образовательных программах</p>-->
-                  
-                  <p class="document-link" @click = "goToClasses(0)">Дошкольники</p>
-                  <p class="document-link" @click = "goToClasses(1)">1 класс</p>
-                  <p class="document-link" @click = "goToClasses(2)">2 класс</p>
-                  <p class="document-link" @click = "goToClasses(3)">3 класс</p>
-                  <p class="document-link" @click = "goToClasses(4)">4 класс</p>
-                  <p class="document-link" @click = "goToClasses(5)">5 класс</p>
-                  <p class="document-link" @click = "goToClasses(6)">6 класс</p>
-                  <p class="document-link" @click = "goToClasses(7)">7 класс</p>
-                  <p class="document-link" @click = "goToClasses(8)">8 класс</p>
-                  <p class="document-link" @click = "goToClasses(9)">Церковнославянский язык</p>
-                  <p class="document-link" @click = "goToClasses(10)">Уроки творчества</p>
+
+                  <p class="document-link" @click="goToClasses(0)">Дошкольники</p>
+                  <p class="document-link" @click="goToClasses(1)">1 класс</p>
+                  <p class="document-link" @click="goToClasses(2)">2 класс</p>
+                  <p class="document-link" @click="goToClasses(3)">3 класс</p>
+                  <p class="document-link" @click="goToClasses(4)">4 класс</p>
+                  <p class="document-link" @click="goToClasses(5)">5 класс</p>
+                  <p class="document-link" @click="goToClasses(6)">6 класс</p>
+                  <p class="document-link" @click="goToClasses(7)">7 класс</p>
+                  <p class="document-link" @click="goToClasses(8)">8 класс</p>
+                  <p class="document-link" @click="goToClasses(9)">Церковнославянский язык</p>
+                  <p class="document-link" @click="goToClasses(10)">Уроки творчества</p>
 
                   <p>Форма обучения - дистанционная</p>
                   <p class="document-link" data-file="4.5_online.pdf">О языках образования</p>
                 </div>
 
                 <div v-else-if="item.type === 'teachers'" class="documents-content">
-                  <p>Образовательный процесс реализуется педагогическими работниками,  <br>
-                    соответствующими требованиям законодательства в части квалификации, стажа  <br>
+                  <p>Образовательный процесс реализуется педагогическими работниками, <br>
+                    соответствующими требованиям законодательства в части квалификации, стажа <br>
                     работы и уровня образования, и не имеющими ограничений для занятия <br>
                     педагогической деятельностью.</p>
 
-                  <p class="document-link" data-file="PedSostav_online.pdf">Педагогический состав</p> 
+                  <p class="document-link" data-file="PedSostav_online.pdf">Педагогический состав</p>
                 </div>
 
                 <div v-else-if="item.type === 'paid-services'" class="documents-content">
-                  <p class="document-link" data-file="RegulationsOnTheProcedure_online.pdf">Положение о порядке оказания платных образовательных услуг</p>
-                  <p class="document-link" data-file="SampleContract_online.pdf">Образец договора об оказании платных образовательных услуг средствами <br>
+                  <p class="document-link" data-file="RegulationsOnTheProcedure_online.pdf">Положение о порядке оказания
+                    платных образовательных услуг</p>
+                  <p class="document-link" data-file="SampleContract_online.pdf">Образец договора об оказании платных
+                    образовательных услуг средствами <br>
                     материнского капитала </p>
                   <p class="document-link" data-file="Payment_online.pdf">Стоимость по образовательным программам</p>
 
                   <p class="document-link" data-file="PublicOffer_online.pdf">Публичная оферта</p>
-                  
+
                 </div>
 
                 <div v-else-if="item.type === 'archive'" class="documents-content">
-                  
+
                   <p class="document-link" data-file="Payment_old_online.pdf">Стоимость по образовательным программам</p>
 
                   <p class="document-link" data-file="PublicOffer_old_online.pdf">Публичная оферта</p>
 
+                </div>
+
+                <div v-else-if="item.type === 'safety'" class="documents-content">
+                  <h3>Нормативное регулирование</h3>
+                  <h4 class="tab">Законадательство РФ</h4>
+                  
+                  <p class="tab"><a href="https://rg.ru/documents/2010/12/31/deti-inform-dok.html" target="_blank">Федеральный закон от 29.12.2010 N 436-ФZ "О защите детей от информации, причиняющей вред их здоровью и развитию"</a></p>
+                  <p class="tab"><a href="https://rg.ru/documents/2006/07/29/personaljnye-dannye-dok.html" target="_blank">Федеральный закон от 27.07.2006 N 152-ФZ "О персональных данных"</a></p>
+                  <p class="tab"><a href="https://www.consultant.ru/document/cons_doc_LAW_19558/" target="_blank">Федеральный закон от 24.07.1998 N 124-ФZ "Об основных гарантиях прав ребенка в Российской Федерации"</a></p>
+                  <p class="tab"><a href="https://www.consultant.ru/document/cons_doc_LAW_446568/" target="_blank">Распоряжение Правительства РФ от 28.04.2023 N 1105-р «Об утверждении Концепции информационной безопасности детей в Российской Федерации и признании утратившим силу Распоряжения
+Правительства РФ от 02.12.2015 N 2471-р></a></p>
+
+
+                  <h3>Памятка педагогическим работникам по работе с обучающимися</h3>
+
+                  <p class="document-link tab" data-file="Memorandum_for_teachers.pdf">Памятка педагогам по обеспечению информационной безопасности обучающихся</p>
+
+                  <h3>Памятка «Цифровая гигиена для обучающхися и родителей»</h3>
+
+                  <p class="document-link tab" data-file="Memorandum_for_parents_and_children.pdf">Памятка «Цифровая гигиена для обучающхися и родителей»</p>
+
+                  <h3>Обучающимся</h3>
+                  <ul>
+                    <li class="li-items">Онлайн-игры: как защитить свои данные, деньги и здоровье от угроз в Сети <br><a href="https://dzen.ru/a/Y-XXipEr1HRsMtB8" target="_blank"> https://www.securitylab.ru/analytics/539664.php</a></li>
+                    <li class="li-items">5 главных угроз геймерам <br><a href="https://dzen.ru/a/Y-XXipEr1HRsMtB8" target="_blank"> https://www.kaspersky.ru/blog/online-gamer-threats/3684/</a></li>
+                    <li class="li-items">Действовать рационально и не торопиться: что нужно знать о безопасном общении в мессенджерах <br><a href="https://dzen.ru/a/Y-XXipEr1HRsMtB8" target="_blank"> https://www.mos.ru/news/item/132641073/</a></li>
+                    <li class="li-items">10 советов по защите личных данных в Интернете<br> <a href="https://dzen.ru/a/Y-XXipEr1HRsMtB8" target="_blank"> https://dzen.ru/a/Y-XXipEr1HRsMtB8</a></li>
+                    <li class="li-items">Как обеспечить безопасность мобильного телефона <br> <a href="https://dzen.ru/a/Y-XXipEr1HRsMtB8" target="_blank"> https://dzen.ru/a/Y-XXipEr1HRsMtB8</a></li>
+                    <li class="li-items">6 правил безопасного использования гаджетов. Родителей тоже касается <br> <a href="https://dzen.ru/a/Y-XXipEr1HRsMtB8" target="_blank"> https://dzen.ru/a/Y-XXipEr1HRsMtB8</a></li>
+                  </ul>
+                  <h3>Родителям</h3>
+                  <h4 class="tab">Для младших школьников</h4>
+                  <ul>
+                    <li class="li-items"><a href="http://www.friendlyrunet.ru" target="_blank">http://www.friendlyrunet.ru</a> - Фонд «Дружественный Рунет». Главной целью Фонда является содействие развитию сети Интернет как благоприятной среды, дружественной ко всем пользователям. Фонд поддерживает проекты, связанные с безопасным использованием интернета</li>
+                    <li class="li-items"><a href="http://www.solnet.ee/" target="_blank">http://www.solnet.ee/</a> - «Солнышко»: детский портал. Развивающие, обучающие игры для самых маленьких и еще много интересного и для родителей.</li>
+                    <li class="li-items"><a href="http://www.teremoc.ru" target="_blank">http://www.teremoc.ru</a> - Детский сайт «ТЕРЕМОК» с развивающими играми, загадками, ребусами,
+мультфильмами.</li>
+                    <li class="li-items"><a href="http://www.murzilka.org/" target="_blank">http://www.murzilka.org/</a> - Сайт журнала «Мурзилка» со стихами, раскрасками, конкурсами и другой полезной информацией.</li>
+                    <li class="li-items"><a href="http://peskarlib.ru/" target="_blank">http://peskarlib.ru/</a> - Большая библиотека произведений, которые будут интересны как самым маленьким для чтения с родителями, так и более взрослым ребятам.</li>
+                  </ul>
+
+                  <h4 class="tab">Для среднего и старшего возраста</h4>
+                  <ul>
+                    <li class="li-items"><a href="http://www.rgo.ru" target="_blank">http://www.rgo.ru</a> - Русское географическое общество</li>
+
+                    <li class="li-items"><a href="http://bioword.narod.ru/" target="_blank">http://bioword.narod.ru/</a> - Биологический словарь</li> 
+
+                    <li class="li-items"><a href="http://www.virtulab.net/" target="_blank">http://www.virtulab.net/</a> - Виртуальная образовательная лаборатория VirtuLab</li>
+
+                    <li class="li-items"><a href="https://www.kvant.digital/" target="_blank">https://www.kvant.digital/</a> - Научно-популярный физико-математический журнал «Квант»</li>
+                    <li class="li-items"><a href="https://www.culture.ru" target="_blank">https://www.culture.ru</a>  — Единый портал популяризации культурного наследия и традиций народов России «Культура.рф»</li>
+                    <li class="li-items"><a href="https://histrf.ru" target="_blank">https://histrf.ru</a>  Федеральный портал «История.РФ»</li>
+                    <li class="li-items"><a href="https://fipi.ru/" target="_blank">https://fipi.ru/</a> - сайт с контрольно-измерительными материалами к ЕГЭ, ОГЭ, ГВЭ.</li>
+
+                  </ul>
                 </div>
 
                 <!-- Обычный контент через v-html -->
@@ -377,7 +455,7 @@ onMounted(() => {
 </template>
 
 <style scoped>
-.document-list{
+.document-list {
   padding-left: 50px;
   width: 100vh;
   color: #1C5389;
@@ -386,7 +464,8 @@ onMounted(() => {
   overflow: hidden;
   transition: border-color 0.3s ease;
 }
-.document-list-item{
+
+.document-list-item {
   padding: 20px;
   border-bottom: #C8DAFF solid 4px;
 }
@@ -470,5 +549,13 @@ onMounted(() => {
 
 .documents-content h3:first-child {
   margin-top: 0;
+}
+
+.tab {
+  margin-left: 20px;
+}
+
+.li-items {
+  margin-bottom: 20px;
 }
 </style>
