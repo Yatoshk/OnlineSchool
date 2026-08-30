@@ -214,6 +214,9 @@ onMounted(() => {
                 </div>
 
                 <div v-else-if="item.type === '8_class'" class="documents-content">
+                  <p class="document-link" data-file="algebra_8_online.pdf">Алгебра</p>
+                  <p class="document-link" data-file="geometry_8_online.pdf">Геометрия</p>
+                  <p class="document-link" data-file="probability_statistics_8_online.pdf">Вероятность и статистика</p>
                   <p class="document-link" data-file="english_8_online.pdf">Английский язык</p>
                 </div>
 
